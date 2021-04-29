@@ -118,3 +118,11 @@ class Person {
   }
   
 }
+//__________________________________________________________________________
+// HTML
+function addUserLabel() {
+	document.getElementById("userLabel").innerHTML = "Allow Sound"
+	p = new Person(5, 5, 5, 6, 6);
+  p.show()
+
+}
