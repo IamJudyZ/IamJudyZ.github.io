@@ -177,7 +177,7 @@ function draw() {
   
   // input = createInput();
   // input.position(20, 65);
-  text("Feel free to add a label. The rest is up to chance.", 174, 45);
+  text("feel free to add a label. the rest is up to chance.", 170, 45);
   button = createButton('submit');
   button.position(input.x + input.width+3, 55);
   button.mousePressed(add);
