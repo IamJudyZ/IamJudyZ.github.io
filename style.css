@@ -34,3 +34,28 @@ a:link, a:visited {
     color:midnightblue;
     text-decoration: none;
 }
+
+.hidden {
+    opacity: 0;
+    
+}
+
+.hidden:hover {
+    color:#F98383;
+    opacity: 100;
+}
+
+#enter, #enter:visited {
+    text-align: right;
+    font-size: 2em;
+    color:#F98383;
+}
+
+#enter:hover {
+    opacity: 0;
+}
+
+.padded {
+    margin: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

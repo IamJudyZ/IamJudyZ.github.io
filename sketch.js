@@ -144,19 +144,10 @@ let labelIndex = [];
 function setup() {
   createCanvas(windowWidth, windowHeight);
   
+  
   input = createInput();
-  input.position(20, 65);
-
-//   button = createButton('submit');
-//   button.position(input.x + input.width, 65);
-//   button.mousePressed(add);
-  
-//   for (let b = 0; b<labeled.length; b++) {
-//     labelIndex.push(Math.round(random(0, nums)));
-//   }
-  // me = Math.round(random(0, nums));
-  // you = Math.round(random(0, nums));
-  
+  input.position(40, 55);
+    
   for (let i=0; i<nums; i++) {
     people[i] = new Person(random(0, width), random(0, height), 20, random(-3,3), random(-3, 3));
     let numOfConnections = random(0, 10);
@@ -165,10 +156,7 @@ function setup() {
       dict[i].push(Math.round(random(0, nums)));
     }
   }
-  // console.log(you, me);
-  // console.log(dict[you]);
-  // console.log(dict[me]);
-  
+
   console.log(labeled);
   console.log(labelIndex);
   
@@ -178,20 +166,20 @@ function setup() {
 
 function add() {
   const name = input.value();
-  labeled.push(name);
+  labeled.push(name.toLowerCase());
   input.value('');
 }
 
 function draw() {
-  background(200);
+  background(161, 223, 251);
   fill(0);
   noStroke();
   
   // input = createInput();
   // input.position(20, 65);
-
+  text("Feel free to add a label. The rest is up to chance.", 174, 45);
   button = createButton('submit');
-  button.position(input.x + input.width, 65);
+  button.position(input.x + input.width+3, 55);
   button.mousePressed(add);
   
   for (let b = 0; b<labeled.length; b++) {
@@ -208,6 +196,7 @@ function draw() {
   
   for (let b=0; b<labeled.length; b++) {
     textAlign(CENTER);
+    people[labelIndex[b]].special=1;
     text(labeled[b], people[labelIndex[b]].x, people[labelIndex[b]].y-15);
   }
   
@@ -242,12 +231,18 @@ class Person {
     this.r=r;
     this.Xspeed = Xspeed;
     this.Yspeed = Yspeed;
-    this.maxDistX = random(50, 450);
+    this.maxDistX = random(150, 550);
     this.angle = 0.0;
+    this.special = 0;
   }
   
   show() {
-    fill(0, 130);
+    if (this.special ==1 ) {
+      fill(249, 131, 101);
+    }
+    else {
+      fill(0, 130);
+    }
     noStroke();
     ellipse(this.x, this.y, this.r);
   }
@@ -277,10 +272,10 @@ class Person {
   animateLine(other, color) {
     
     if (color == 1) {
-      stroke(250, 50, 100, 205);
+      stroke(119,136,153, 250);
     }
     else {
-      stroke(119,136,153, 205);
+      stroke(119,136,153, 100);
     }
     
     this.start = createVector(this.x, this.y);
