@@ -200,8 +200,6 @@ function draw() {
     text(labeled[b], people[labelIndex[b]].x, people[labelIndex[b]].y-15);
   }
   
-  // text('me', people[me].x-8, people[me].y-15);
-  // text('you', people[you].x-8, people[you].y-15);
   for (let j=0; j<people.length; j++) {
     people[j].show();
     people[j].move();
