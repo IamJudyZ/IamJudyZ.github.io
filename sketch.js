@@ -171,7 +171,7 @@ function add() {
 }
 
 function draw() {
-  background(161, 223, 251);
+  background(157, 194, 216);
   fill(0);
   noStroke();
   

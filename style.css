@@ -9,6 +9,7 @@ body {
     height: 100vh;
     overflow: hidden;
     margin: 0;
+    background-color: transparent;
 }
 
 .welcome {
@@ -20,6 +21,8 @@ body {
     align-items: center;
     /* font-size: 4em;
     text-transform: lowercase; */
+    color:midnightblue;
+    font-size: 4em;
 }
 
 a:link, a:visited {
@@ -29,9 +32,9 @@ a:link, a:visited {
     text-align: center;
     justify-content: center;
     align-items: center; */
-    font-size: 4em;
-    text-transform: lowercase;
-    color:midnightblue;
+    /* font-size: 4em; */
+    /* text-transform: lowercase; */
+    color: inherit;
     text-decoration: none;
 }
 
@@ -45,18 +48,48 @@ a:link, a:visited {
     opacity: 100;
 }
 
-#enter, #enter:visited {
+.hidden:active {
+    opacity: 100;
+}
+
+.enter, .enter:visited {
     text-align: right;
     font-size: 2em;
     color:#F98383;
 }
 
-#enter:hover {
-    opacity: 0;
+
+.enter:hover{
+    color: white;
+    opacity: 100%;
 }
 
+
+.bg {
+    display: none;
+    /* color: white; */
+    position: absolute;
+    z-index: -1;
+    /* opacity: 10%; */
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    background-color:rgb(157, 194, 216);
+  }
+  
+.showhim:hover .bg {
+    display: block;
+}
+
+.white {
+    color:white;
+    z-index: 1;
+}
+
+
 .padded {
-    margin: 100px;
+    margin: 200px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
