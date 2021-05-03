@@ -39,13 +39,15 @@ a:link, a:visited {
 }
 
 .hidden {
-    opacity: 0;
+    color:white;
+    z-index: 1;
+    /* opacity: 0; */
     
 }
 
 .hidden:hover {
     color:#F98383;
-    opacity: 100;
+    /* opacity: 100; */
 }
 
 .hidden:active {
@@ -82,10 +84,7 @@ a:link, a:visited {
     display: block;
 }
 
-.white {
-    color:white;
-    z-index: 1;
-}
+
 
 
 .padded {
