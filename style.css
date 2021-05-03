@@ -99,3 +99,11 @@ a:link, a:visited {
     top: 34px;
     font-size: 12px;
 }
+
+#transp {
+    opacity: 0%;
+}
+
+#transp:hover {
+    opacity: 100%;
+}
