@@ -10,6 +10,7 @@ body {
     overflow: hidden;
     margin: 0;
     background-color: transparent;
+    /* background-color: black; */
 }
 
 .welcome {
@@ -22,6 +23,7 @@ body {
     /* font-size: 4em;
     text-transform: lowercase; */
     color:midnightblue;
+    /* color: white; */
     font-size: 4em;
 }
 
@@ -34,7 +36,7 @@ a:link, a:visited {
     align-items: center; */
     /* font-size: 4em; */
     /* text-transform: lowercase; */
-    color: inherit;
+    /* color: inherit; */
     text-decoration: none;
 }
 
