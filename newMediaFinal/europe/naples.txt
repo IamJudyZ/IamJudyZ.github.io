@@ -1,0 +1,178 @@
+{
+    "geometry" : {
+      "coordinates" : [ 14.2559257, 40.8466823 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=40975477947132640",
+      "Location" : {
+        "Address" : "Via Mezzocannone, 81, 80134 Napoli NA, Italy",
+        "Business Name" : "Pop 21 Vintage Store",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8466823",
+          "Longitude" : "14.2559257"
+        }
+      },
+      "Published" : "2018-03-18T01:34:02Z",
+      "Title" : "Pop 21 Vintage Store",
+      "Updated" : "2018-03-18T01:34:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.2506854, 40.8474433 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Via+Cisterna+dell'Olio,+80134+Napoli+NA,+Italy&ftid=0x133b085b5b4b3fe9:0x77a3d1c462bba970",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "40.8474433",
+          "Longitude" : "14.2506854"
+        }
+      },
+      "Published" : "2018-03-18T01:32:01Z",
+      "Title" : "Via Cisterna dell'Olio, 80134 Napoli NA, Italy",
+      "Updated" : "2018-03-18T01:32:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.2517570, 40.8512125 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Via+Santa+Maria+di+Costantinopoli,+80138+Napoli+NA,+Italy&ftid=0x133b0842c90538f7:0xd52537181da0f85c",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "40.8512125",
+          "Longitude" : "14.2517570"
+        }
+      },
+      "Published" : "2018-03-18T01:27:19Z",
+      "Title" : "Via Santa Maria di Costantinopoli, 80138 Napoli NA, Italy",
+      "Updated" : "2018-03-18T01:27:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.2319638, 40.8359675 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Via+Giuseppe+Martucci,+Napoli+NA,+Italy&ftid=0x133b08fded9d7835:0xf6b7326abeb25466",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "40.8359675",
+          "Longitude" : "14.2319638"
+        }
+      },
+      "Published" : "2018-03-18T01:26:29Z",
+      "Title" : "Via Giuseppe Martucci, Napoli NA, Italy",
+      "Updated" : "2018-03-18T01:26:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.2507514, 40.8507575 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12380211574110979057",
+      "Location" : {
+        "Address" : "Via Vincenzo Bellini, 38, 80135 Napoli NA, Italy",
+        "Business Name" : "Il Baule del Vintage",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8507575",
+          "Longitude" : "14.2507514"
+        }
+      },
+      "Published" : "2018-03-18T01:25:26Z",
+      "Title" : "Il Baule del Vintage",
+      "Updated" : "2018-03-18T01:25:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.2552749, 40.8484940 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12935421325693807304",
+      "Location" : {
+        "Address" : "P.za S. Domenico Maggiore, 80134 Napoli NA, Italy",
+        "Business Name" : "San Domenico Maggiore Edicola",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8484940",
+          "Longitude" : "14.2552749"
+        }
+      },
+      "Published" : "2018-03-18T01:24:56Z",
+      "Title" : "San Domenico Maggiore Edicola",
+      "Updated" : "2018-03-18T01:24:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.2560876, 40.8466086 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Via+Mezzocannone,+80134+Napoli+NA,+Italy&ftid=0x133b08440ffbdbdd:0xe8927a570447702b",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "40.8466086",
+          "Longitude" : "14.2560876"
+        }
+      },
+      "Published" : "2018-03-18T01:24:08Z",
+      "Title" : "Via Mezzocannone, 80134 Napoli NA, Italy",
+      "Updated" : "2018-03-18T01:24:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.2343089, 40.8369021 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13744509338870732884",
+      "Location" : {
+        "Address" : "Via Vittoria Colonna, 13/C, 80121 Napoli NA, Italy",
+        "Business Name" : "Brandy Melville",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8369021",
+          "Longitude" : "14.2343089"
+        }
+      },
+      "Published" : "2018-03-18T01:22:51Z",
+      "Title" : "Brandy Melville",
+      "Updated" : "2018-03-18T01:22:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.2527001, 40.8485064 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6567918130214502443",
+      "Location" : {
+        "Address" : "Via S. Sebastiano, 20, 80134 Napoli NA, Italy",
+        "Business Name" : "Oblomova",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8485064",
+          "Longitude" : "14.2527001"
+        }
+      },
+      "Published" : "2018-03-18T01:22:31Z",
+      "Title" : "Oblomova",
+      "Updated" : "2018-03-18T01:22:31Z"
+    },
+    "type" : "Feature"
+  }, 

@@ -1,0 +1,64 @@
+{
+    "geometry" : {
+      "coordinates" : [ -115.1696526, 36.1211740 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11652001351180211013",
+      "Location" : {
+        "Address" : "3355 S Las Vegas Blvd, Las Vegas, NV 89109, United States",
+        "Business Name" : "The Venetian Resort Las Vegas",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "36.1211740",
+          "Longitude" : "-115.1696526"
+        }
+      },
+      "Published" : "2021-01-12T21:12:49Z",
+      "Title" : "The Venetian Las Vegas",
+      "Updated" : "2021-01-12T21:12:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -115.1740155, 36.1128901 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16305082807333548246",
+      "Location" : {
+        "Address" : "3600 S Las Vegas Blvd, Las Vegas, NV 89109, United States",
+        "Business Name" : "Fountains of Bellagio",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "36.1128901",
+          "Longitude" : "-115.1740155"
+        }
+      },
+      "Published" : "2021-01-12T17:29:44Z",
+      "Title" : "Fountains of Bellagio",
+      "Updated" : "2021-01-12T17:29:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -115.1713580, 36.0996349 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1141207638858050160",
+      "Location" : {
+        "Address" : "3801 S Las Vegas Blvd, Las Vegas, NV 89109, United States",
+        "Business Name" : "Tropicana Las Vegas – a DoubleTree by Hilton Hotel & Resort",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "36.0996349",
+          "Longitude" : "-115.1713580"
+        }
+      },
+      "Published" : "2021-01-04T20:32:42Z",
+      "Title" : "Tropicana Las Vegas – a DoubleTree by Hilton Hotel & Resort",
+      "Updated" : "2021-01-04T20:32:42Z"
+    },
+    "type" : "Feature"
+  },

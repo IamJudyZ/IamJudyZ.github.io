@@ -1,0 +1,40 @@
+ {
+    "geometry" : {
+      "coordinates" : [ -114.3006150, 48.1914749 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1621103055740969128",
+      "Location" : {
+        "Address" : "904 7th Ave E, Kalispell, MT 59901, United States",
+        "Business Name" : "Woolen Collectibles",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "48.1914749",
+          "Longitude" : "-114.3006150"
+        }
+      },
+      "Published" : "2021-03-04T18:03:46Z",
+      "Title" : "Woolen Collectibles",
+      "Updated" : "2021-03-04T18:03:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -114.3107665, 48.1957634 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=309+1st+Ave+E,+Kalispell,+MT+59901,+USA&ftid=0x536650ea6316428b:0xb4ae4a20ca9cea47",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "48.1957634",
+          "Longitude" : "-114.3107665"
+        }
+      },
+      "Published" : "2021-03-04T18:03:05Z",
+      "Title" : "309 1st Ave E, Kalispell, MT 59901, USA",
+      "Updated" : "2021-03-04T18:03:05Z"
+    },
+    "type" : "Feature"
+  },

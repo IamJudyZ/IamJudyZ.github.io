@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <script src="index.js"></script>
+        <title>What have you saved?</title>
+    </head>
+    <body>
+        <span class="box" id="leftbox" onMouseOver="hide('text')" onMouseOut="show('text')"><a href=usa.html>USA</a></span>
+        <span class="box" id="rightbox" onMouseOver="hide('text')" onMouseOut="show('text')"><a href=europe.html>Europe</a></span>
+        <!-- <div class="imgbox"><img class="center-fit" src="map.png"></div> -->
+        <div id="text">
+            <p>How much data have I given to Google?</p>
+            <p>According to a 2008 study conducted by Aleecia McDonald and Lorrie Faith Cranor of Carnegie Mellon University, the average American user would need around 200 hours to read through each privacy policy they sign each year. The average American lifespan is 79 years, but let's assume we don't actually use the internet actively in the first 10 years (or maybe we do, but it is likely our parents are still clicking the checkbox at the privacy policy panels). In that case, we would need to spend an average of 13,800 hours, or 575 days of our lives reading privacy policies. Nobody does it, of course.
+            </p>
+            <p>Instead, we agree to give our data to whoever asks for it, because quite frankly, they will get it one way or another. Google gave me 295 entries of saved locations from the past 4 years when I requested to see my own data, but I know from my own Google Maps account, that that information is false. I have many more locations saved just in the New York Metro Area, from what I can see when I pull up my maps to check the fastest route to the climbing gym I frequently go to (which I have saved, but did not get back in my data request).
+            </p>
+            <p>It might have just been an accident that I did not get back the results that I expected to receive. But that accident might be further proof of the fact that if I ever asked them to delete my data, that data would not actually be erased. It means that 295 Google Maps Saved Places, or less than 1MB of data would get deleted. The rest of it, all the information I know I have given to them, are not traced back to me, and thus will not get deleted with me from the platform. My face in the photographs I have backed up, my fingerprints I have given them through phones, or the routes I've taken with Google Maps while driving, will forever live on in their databases whether I like it or not. </p>
+        </div>
+        <div class="bg"></div>
+
+        <script>
+            function show(id) {
+              document.getElementById(id).style.visibility = "visible";
+            }
+            function hide(id) {
+              document.getElementById(id).style.visibility = "hidden";
+            }
+          </script>
+    </body>
+
+</html>

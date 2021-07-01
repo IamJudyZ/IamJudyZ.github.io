@@ -1,0 +1,930 @@
+ {
+    "geometry" : {
+      "coordinates" : [ 12.5743580, 55.6785270 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7694139424660374513",
+      "Location" : {
+        "Address" : "Vimmelskaftet 47, 1161 København, Denmark",
+        "Business Name" : "Friends & Brgrs København",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6785270",
+          "Longitude" : "12.5743580"
+        }
+      },
+      "Published" : "2018-08-03T11:01:53Z",
+      "Title" : "Friends & Burgers",
+      "Updated" : "2018-08-03T11:01:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5756961, 55.6794762 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17494521535766704372",
+      "Location" : {
+        "Address" : "Gråbrødretorv 17, 1154 København, Denmark",
+        "Business Name" : "Sporvejen",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6794762",
+          "Longitude" : "12.5756961"
+        }
+      },
+      "Published" : "2018-08-03T10:59:31Z",
+      "Title" : "Sporvejen Byens burger bar",
+      "Updated" : "2018-08-03T10:59:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5727000, 55.6808000 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8566943646428662471",
+      "Location" : {
+        "Address" : "Fiolstræde 3-5, 1171 København, Denmark",
+        "Business Name" : "Dalle Valle",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6808000",
+          "Longitude" : "12.5727000"
+        }
+      },
+      "Published" : "2018-08-03T10:57:12Z",
+      "Title" : "Dalle Valle",
+      "Updated" : "2018-08-03T10:57:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5767906, 55.6788285 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=952336939292039598",
+      "Location" : {
+        "Address" : "Amagertorv 31, 1160 København, Denmark",
+        "Business Name" : "DØP - Den Økologiske Pølsemand",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6788285",
+          "Longitude" : "12.5767906"
+        }
+      },
+      "Published" : "2018-08-03T10:54:45Z",
+      "Title" : "Hot Dog",
+      "Updated" : "2018-08-03T10:54:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5478720, 55.6891793 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2137199547962460003",
+      "Location" : {
+        "Address" : "Hans Tavsens Gade, 2200 København N, Denmark",
+        "Business Name" : "Hans Tavsens Park",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6891793",
+          "Longitude" : "12.5478720"
+        }
+      },
+      "Published" : "2018-08-02T18:24:24Z",
+      "Title" : "Hans Tausens Park",
+      "Updated" : "2018-08-02T18:24:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5571819, 55.6918075 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4433211302717200283",
+      "Location" : {
+        "Address" : "Guldbergsgade 21, 2200 København, Denmark",
+        "Business Name" : "Kiin Kiin",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6918075",
+          "Longitude" : "12.5571819"
+        }
+      },
+      "Published" : "2018-08-02T17:36:09Z",
+      "Title" : "Kiin Kiin",
+      "Updated" : "2018-08-02T17:36:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5540256, 55.6878490 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16251376592392519750",
+      "Location" : {
+        "Address" : "Griffenfeldsgade 28, 2200 København, Denmark",
+        "Business Name" : "Ramen to Bíiru",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6878490",
+          "Longitude" : "12.5540256"
+        }
+      },
+      "Published" : "2018-08-02T17:09:21Z",
+      "Title" : "Ramen to Bíiru",
+      "Updated" : "2018-08-02T17:09:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5582387, 55.6916544 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18262453782615145603",
+      "Location" : {
+        "Address" : "Guldbergsgade 18, 2200 København, Denmark",
+        "Business Name" : "Nino's pizzeria",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6916544",
+          "Longitude" : "12.5582387"
+        }
+      },
+      "Published" : "2018-08-02T17:08:01Z",
+      "Title" : "Nino's pizzeria",
+      "Updated" : "2018-08-02T17:08:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5672836, 55.6855091 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2782736856097087394",
+      "Location" : {
+        "Address" : "Frederiksborggade 44, 1360 København, Denmark",
+        "Business Name" : "Fjällräven",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6855091",
+          "Longitude" : "12.5672836"
+        }
+      },
+      "Published" : "2018-08-02T15:23:16Z",
+      "Title" : "Fjällräven Brand Store Copenhagen",
+      "Updated" : "2018-08-02T15:23:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5963859, 55.6824450 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Ofelia+Beach,+K%C3%B8benhavn+K,+Denmark&ftid=0x465253239cc57993:0x70855ef5aa735f2e",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "55.6824450",
+          "Longitude" : "12.5963859"
+        }
+      },
+      "Published" : "2018-08-02T07:46:00Z",
+      "Title" : "Ofelia Beach, København K, Denmark",
+      "Updated" : "2018-08-02T07:46:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5580804, 55.6746508 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12732757282825095522",
+      "Location" : {
+        "Address" : "Gl. Kongevej 10, 1610 København V, Denmark",
+        "Business Name" : "Planetarium",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6746508",
+          "Longitude" : "12.5580804"
+        }
+      },
+      "Published" : "2018-08-01T20:08:43Z",
+      "Title" : "Tycho Brahe Planetarium",
+      "Updated" : "2018-08-01T20:08:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5562559, 55.6908856 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10047449012387400354",
+      "Location" : {
+        "Address" : "Møllegade 10, 2200 København, Denmark",
+        "Business Name" : "ark books",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6908856",
+          "Longitude" : "12.5562559"
+        }
+      },
+      "Published" : "2018-07-30T12:19:01Z",
+      "Title" : "ark books",
+      "Updated" : "2018-07-30T12:19:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5732490, 55.6803918 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15921597667749287560",
+      "Location" : {
+        "Address" : "Fiolstræde 10, 1171 København, Denmark",
+        "Business Name" : "Paludan Bog & Café",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6803918",
+          "Longitude" : "12.5732490"
+        }
+      },
+      "Published" : "2018-07-30T12:17:31Z",
+      "Title" : "Paludan Bog & Café",
+      "Updated" : "2018-07-30T12:17:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5748131, 55.6797833 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=714151854309804303",
+      "Location" : {
+        "Address" : "Skindergade 23, 1159 København, Denmark",
+        "Business Name" : "The Booktrader",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6797833",
+          "Longitude" : "12.5748131"
+        }
+      },
+      "Published" : "2018-07-30T12:16:20Z",
+      "Title" : "The Booktrader",
+      "Updated" : "2018-07-30T12:16:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5745867, 55.6796722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Skindergade,+K%C3%B8benhavn,+Denmark&ftid=0x465253105baa2cc9:0x151b1eba1d35d81b",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "55.6796722",
+          "Longitude" : "12.5745867"
+        }
+      },
+      "Published" : "2018-07-30T12:15:37Z",
+      "Title" : "Skindergade, København, Denmark",
+      "Updated" : "2018-07-30T12:15:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5323000, 55.6673000 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Elephant+Gate+and+Tower,+1760+K%C3%B8benhavn,+Denmark&ftid=0x465253186891db73:0x29e815530af00582",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "55.6673000",
+          "Longitude" : "12.5323000"
+        }
+      },
+      "Published" : "2018-07-29T18:35:21Z",
+      "Title" : "Elephant Gate and Tower, 1760 København, Denmark",
+      "Updated" : "2018-07-29T18:35:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5798452, 55.6852905 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1001263743401307240",
+      "Location" : {
+        "Address" : "Øster Voldgade 4A, 1350 København, Denmark",
+        "Business Name" : "The King's Garden",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6852905",
+          "Longitude" : "12.5798452"
+        }
+      },
+      "Published" : "2018-07-29T18:31:31Z",
+      "Title" : "The King's Garden",
+      "Updated" : "2018-07-29T18:31:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5815874, 55.6786440 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2002337927258582938",
+      "Location" : {
+        "Address" : "Nikolaj Plads 10, 1067 København K, Denmark",
+        "Business Name" : "Nikolaj, Copenhagen Contemporary Art Center",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6786440",
+          "Longitude" : "12.5815874"
+        }
+      },
+      "Published" : "2018-07-29T18:30:45Z",
+      "Title" : "Nikolaj, Copenhagen Contemporary Art Center",
+      "Updated" : "2018-07-29T18:30:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5725430, 55.6729800 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6457931311322032033",
+      "Location" : {
+        "Address" : "Dantes Plads 7, 1556 København, Denmark",
+        "Business Name" : "Ny Carlsberg Glyptotek",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6729800",
+          "Longitude" : "12.5725430"
+        }
+      },
+      "Published" : "2018-07-29T18:28:40Z",
+      "Title" : "Ny Carlsberg Glyptotek",
+      "Updated" : "2018-07-29T18:28:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5783303, 55.6888127 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15036398269754796286",
+      "Location" : {
+        "Address" : "Sølvgade 48-50, 1307 København K, Denmark",
+        "Business Name" : "SMK – Statens Museum for Kunst",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6888127",
+          "Longitude" : "12.5783303"
+        }
+      },
+      "Published" : "2018-07-29T18:25:57Z",
+      "Title" : "SMK – Statens Museum for Kunst",
+      "Updated" : "2018-07-29T18:25:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5942102, 55.6729387 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13913873156370576427",
+      "Location" : {
+        "Address" : "Sankt Annæ Gade 29, 1416 København, Denmark",
+        "Business Name" : "Church of Our Saviour",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6729387",
+          "Longitude" : "12.5942102"
+        }
+      },
+      "Published" : "2018-07-29T18:22:34Z",
+      "Title" : "Church of Our Saviour",
+      "Updated" : "2018-07-29T18:22:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5772687, 55.6858274 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5923812628893276988",
+      "Location" : {
+        "Address" : "Øster Voldgade 4A, 1350 København, Denmark",
+        "Business Name" : "Rosenborg Castle",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6858274",
+          "Longitude" : "12.5772687"
+        }
+      },
+      "Published" : "2018-07-29T18:17:31Z",
+      "Title" : "Rosenborg Castle",
+      "Updated" : "2018-07-29T18:17:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5732060, 55.6849000 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1384526838437491508",
+      "Location" : {
+        "Address" : "Gothersgade 128, 1123 København K, Denmark",
+        "Business Name" : "Botanical Garden",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6849000",
+          "Longitude" : "12.5732060"
+        }
+      },
+      "Published" : "2018-07-29T18:17:18Z",
+      "Title" : "Botanical Garden",
+      "Updated" : "2018-07-29T18:17:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5747410, 55.6746479 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16029829603212808879",
+      "Location" : {
+        "Address" : "Prince's Mansion, Ny Vestergade 10, 1471 København K, Denmark",
+        "Business Name" : "National Museum of Denmark",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6746479",
+          "Longitude" : "12.5747410"
+        }
+      },
+      "Published" : "2018-07-29T18:15:53Z",
+      "Title" : "National Museum of Denmark",
+      "Updated" : "2018-07-29T18:15:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5928423, 55.6865563 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12053448206263799799",
+      "Location" : {
+        "Address" : "Bredgade 68, 1260 København, Denmark",
+        "Business Name" : "Designmuseum Denmark",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6865563",
+          "Longitude" : "12.5928423"
+        }
+      },
+      "Published" : "2018-07-29T18:15:43Z",
+      "Title" : "Designmuseum Denmark",
+      "Updated" : "2018-07-29T18:15:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5746270, 55.6812723 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11296658538604009641",
+      "Location" : {
+        "Address" : "Krystalgade 4, 1172 København, Denmark",
+        "Business Name" : "Time's Up Vintage",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6812723",
+          "Longitude" : "12.5746270"
+        }
+      },
+      "Published" : "2018-07-29T18:14:27Z",
+      "Title" : "Time's Up Vintage",
+      "Updated" : "2018-07-29T18:14:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5681335, 55.6784557 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4188153625368585397",
+      "Location" : {
+        "Address" : "Studiestræde 32, 1455 København, Denmark",
+        "Business Name" : "København K",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6784557",
+          "Longitude" : "12.5681335"
+        }
+      },
+      "Published" : "2018-07-29T18:12:29Z",
+      "Title" : "København K Secondhand",
+      "Updated" : "2018-07-29T18:12:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5731830, 55.6788750 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17730566801089339470",
+      "Location" : {
+        "Address" : "Skindergade 36, 1159 København, Denmark",
+        "Business Name" : "Mæxico",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6788750",
+          "Longitude" : "12.5731830"
+        }
+      },
+      "Published" : "2018-07-29T18:12:15Z",
+      "Title" : "Barburrito",
+      "Updated" : "2018-07-29T18:12:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5699014, 55.6780410 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5057869156683794466",
+      "Location" : {
+        "Address" : "Larsbjørnsstræde 8, 1454 København, Denmark",
+        "Business Name" : "Episode",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6780410",
+          "Longitude" : "12.5699014"
+        }
+      },
+      "Published" : "2018-07-29T18:11:21Z",
+      "Title" : "Episode Denmark ApS",
+      "Updated" : "2018-07-29T18:11:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5771192, 55.6786621 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Str%C3%B8get,+K%C3%B8benhavn,+Denmark&ftid=0x4652531126d48c09:0xe7bb9da935dc7616",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "55.6786621",
+          "Longitude" : "12.5771192"
+        }
+      },
+      "Published" : "2018-07-29T18:11:01Z",
+      "Title" : "Strøget, København, Denmark",
+      "Updated" : "2018-07-29T18:11:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.6496067, 55.6545325 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17971719838347258178",
+      "Location" : {
+        "Address" : "Amager Strand Promenaden 1, 2300 København, Denmark",
+        "Business Name" : "Amager Strandpark",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6545325",
+          "Longitude" : "12.6496067"
+        }
+      },
+      "Published" : "2018-07-29T18:10:11Z",
+      "Title" : "Amager Strandpark",
+      "Updated" : "2018-07-29T18:10:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5497793, 55.6784309 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4587207889876258522",
+      "Location" : {
+        "Address" : "Niels Ebbesens Vej 20, 1911 Frederiksberg, Denmark",
+        "Business Name" : "Hotel Euroglobe",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6784309",
+          "Longitude" : "12.5497793"
+        }
+      },
+      "Published" : "2018-07-29T18:08:41Z",
+      "Title" : "Hotel Euroglobe",
+      "Updated" : "2018-07-29T18:08:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5873454, 55.6747365 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=371345362691995564",
+      "Location" : {
+        "Address" : "Knippelsbro, 1409 København K, Denmark",
+        "Business Name" : "Knippels Bridge",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6747365",
+          "Longitude" : "12.5873454"
+        }
+      },
+      "Published" : "2018-07-29T18:05:44Z",
+      "Title" : "Knippels Bridge",
+      "Updated" : "2018-07-29T18:05:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5803274, 55.6763218 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3221894419468149273",
+      "Location" : {
+        "Address" : "Prins Jørgens Gård 1, 1218 København, Denmark",
+        "Business Name" : "Christiansborg Palace",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6763218",
+          "Longitude" : "12.5803274"
+        }
+      },
+      "Published" : "2018-07-29T18:05:34Z",
+      "Title" : "Christiansborg Palace",
+      "Updated" : "2018-07-29T18:05:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5826588, 55.6733994 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7803826045108367372",
+      "Location" : {
+        "Address" : "Black Diamond, Søren Kierkegaards Plads 1, 1221 København K, Denmark",
+        "Business Name" : "The Royal Library",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6733994",
+          "Longitude" : "12.5826588"
+        }
+      },
+      "Published" : "2018-07-29T18:05:22Z",
+      "Title" : "The Royal Library",
+      "Updated" : "2018-07-29T18:05:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5691285, 55.6759142 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2816913729116830992",
+      "Location" : {
+        "Address" : "1599 Copenhagen, Denmark",
+        "Business Name" : "City Hall Square",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6759142",
+          "Longitude" : "12.5691285"
+        }
+      },
+      "Published" : "2018-07-29T18:04:42Z",
+      "Title" : "City Hall Square",
+      "Updated" : "2018-07-29T18:04:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5690741, 55.6723505 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5975229773390478062",
+      "Location" : {
+        "Address" : "Tietgensgade 20, 1704 København, Denmark",
+        "Business Name" : "Wagamama",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6723505",
+          "Longitude" : "12.5690741"
+        }
+      },
+      "Published" : "2018-07-29T18:02:29Z",
+      "Title" : "Wagamama",
+      "Updated" : "2018-07-29T18:02:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5758960, 55.6785460 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11717308858935140707",
+      "Location" : {
+        "Address" : "Vimmelskaftet 37, 1161 København, Denmark",
+        "Business Name" : "Lego Store",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6785460",
+          "Longitude" : "12.5758960"
+        }
+      },
+      "Published" : "2018-07-29T18:02:20Z",
+      "Title" : "LEGO® Store København",
+      "Updated" : "2018-07-29T18:02:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5909057, 55.6799310 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16073589855830279908",
+      "Location" : {
+        "Address" : "K, København, Denmark",
+        "Business Name" : "Nyhavn",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6799310",
+          "Longitude" : "12.5909057"
+        }
+      },
+      "Published" : "2018-07-29T18:02:04Z",
+      "Title" : "Nyhavn",
+      "Updated" : "2018-07-29T18:02:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5681471, 55.6736841 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15687457030514878384",
+      "Location" : {
+        "Address" : "Vesterbrogade 3, 1630 København V, Denmark",
+        "Business Name" : "Tivoli Gardens",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6736841",
+          "Longitude" : "12.5681471"
+        }
+      },
+      "Published" : "2018-07-29T17:57:41Z",
+      "Title" : "Tivoli Gardens",
+      "Updated" : "2018-07-29T17:57:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5697655, 55.6836899 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8319535972432306747",
+      "Location" : {
+        "Address" : "Frederiksborggade 21, 1362 København, Denmark",
+        "Business Name" : "Torvehallerne",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6836899",
+          "Longitude" : "12.5697655"
+        }
+      },
+      "Published" : "2018-07-29T17:55:16Z",
+      "Title" : "Torvehallerne",
+      "Updated" : "2018-07-29T17:55:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5757299, 55.6813470 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16661805064649614391",
+      "Location" : {
+        "Address" : "Købmagergade 52A, 1150 København, Denmark",
+        "Business Name" : "The Round Tower",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6813470",
+          "Longitude" : "12.5757299"
+        }
+      },
+      "Published" : "2018-07-29T17:55:08Z",
+      "Title" : "The Round Tower",
+      "Updated" : "2018-07-29T17:55:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5930201, 55.6840588 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6697274495928194367",
+      "Location" : {
+        "Address" : "Amalienborg Slotsplads 5, 1257 København K, Denmark",
+        "Business Name" : "Amalienborg",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6840588",
+          "Longitude" : "12.5930201"
+        }
+      },
+      "Published" : "2018-07-29T17:45:37Z",
+      "Title" : "Amalienborg",
+      "Updated" : "2018-07-29T17:45:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5943010, 55.6913760 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17926843555506776883",
+      "Location" : {
+        "Address" : "Gl. Hovedvagt, Kastellet 1, 2100 København, Denmark",
+        "Business Name" : "Kastellet",
+        "Country Code" : "DK",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6913760",
+          "Longitude" : "12.5943010"
+        }
+      },
+      "Published" : "2018-07-29T17:45:34Z",
+      "Title" : "Kastellet",
+      "Updated" : "2018-07-29T17:45:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5992828, 55.6928600 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16116289650480717372",
+      "Location" : {
+        "Address" : "Langelinie, 2100 København Ø, Denmark",
+        "Business Name" : "The Little Mermaid",
+        "Geo Coordinates" : {
+          "Latitude" : "55.6928600",
+          "Longitude" : "12.5992828"
+        }
+      },
+      "Published" : "2018-07-29T17:45:18Z",
+      "Title" : "The Little Mermaid",
+      "Updated" : "2018-07-29T17:45:18Z"
+    },
+    "type" : "Feature"
+  }, 

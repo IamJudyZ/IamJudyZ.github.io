@@ -1,0 +1,159 @@
+{
+    "geometry" : {
+      "coordinates" : [ 16.3730089, 48.2203908 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Schreygasse+2,+1020+Wien,+Austria&ftid=0x476d07aff55ae977:0x3567e6866f774170",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "48.2203908",
+          "Longitude" : "16.3730089"
+        }
+      },
+      "Published" : "2020-01-19T19:44:43Z",
+      "Title" : "Schreygasse 2, 1020 Wien, Austria",
+      "Updated" : "2020-01-19T19:44:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.9456300, 46.6824500 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=9551+Gerlitzen,+Austria&ftid=0x4770875781222b37:0x3ce3da6a77e725dc",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "46.6824500",
+          "Longitude" : "13.9456300"
+        }
+      },
+      "Published" : "2020-01-17T14:16:44Z",
+      "Title" : "Gerlitzen, 9551, Austria",
+      "Updated" : "2020-01-17T14:16:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.3669100, 47.2479800 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=8831+Lachtal,+Austria&ftid=0x4771ac18b9b89279:0x71c8af884981d56",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "47.2479800",
+          "Longitude" : "14.3669100"
+        }
+      },
+      "Published" : "2020-01-17T14:15:29Z",
+      "Title" : "Lachtal, 8831, Austria",
+      "Updated" : "2020-01-17T14:15:29Z"
+    },
+    "type" : "Feature"
+  },
+  
+{
+    "geometry" : {
+      "coordinates" : [ 16.4209847, 48.2072078 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18340531955333580658",
+      "Location" : {
+        "Address" : "Meiereistraße 7, 1020 Wien, Austria",
+        "Business Name" : "Ernst Happel Stadium",
+        "Country Code" : "AT",
+        "Geo Coordinates" : {
+          "Latitude" : "48.2072078",
+          "Longitude" : "16.4209847"
+        }
+      },
+      "Published" : "2018-08-06T18:27:47Z",
+      "Title" : "Ernst Happel Stadium",
+      "Updated" : "2018-08-06T18:27:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 16.3765973, 48.1851873 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12142390982091036616",
+      "Location" : {
+        "Address" : "Am Hauptbahnhof 1, 1100 Wien, Austria",
+        "Business Name" : "Wien Hauptbahnhof",
+        "Country Code" : "AT",
+        "Geo Coordinates" : {
+          "Latitude" : "48.1851873",
+          "Longitude" : "16.3765973"
+        }
+      },
+      "Published" : "2018-08-06T18:27:35Z",
+      "Title" : "Vienna Central Station",
+      "Updated" : "2018-08-06T18:27:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 16.3978895, 48.2190483 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Mumbgasse+6,+1020+Wien,+Austria&ftid=0x476d0705213907f7:0x9e25ee2b8c29f57",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "48.2190483",
+          "Longitude" : "16.3978895"
+        }
+      },
+      "Published" : "2017-06-11T07:12:59Z",
+      "Title" : "Mumbgasse 6, 1020 Wien, Austria",
+      "Updated" : "2017-06-11T07:12:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 16.3681824, 48.2046992 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7417299499413397176",
+      "Location" : {
+        "Address" : "Albertinaplatz 1, 1010 Wien, Austria",
+        "Business Name" : "Albertina",
+        "Country Code" : "AT",
+        "Geo Coordinates" : {
+          "Latitude" : "48.2046992",
+          "Longitude" : "16.3681824"
+        }
+      },
+      "Published" : "2017-06-03T20:12:42Z",
+      "Title" : "Albertina",
+      "Updated" : "2017-06-03T20:12:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 16.3668953, 48.2062609 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6331491280064114503",
+      "Location" : {
+        "Address" : "Josefsplatz 1, 1015 Wien, Austria",
+        "Business Name" : "Austrian National Library",
+        "Country Code" : "AT",
+        "Geo Coordinates" : {
+          "Latitude" : "48.2062609",
+          "Longitude" : "16.3668953"
+        }
+      },
+      "Published" : "2017-06-03T20:10:09Z",
+      "Title" : "Austrian National Library",
+      "Updated" : "2017-06-03T20:10:09Z"
+    },
+    "type" : "Feature"
+  }, 

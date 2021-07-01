@@ -1,0 +1,237 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ -120.6614765, 47.5962326 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Leavenworth,+WA+98826,+USA&ftid=0x549a4d92a4f8f98d:0xa14f95fb0abfef7e",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "47.5962326",
+          "Longitude" : "-120.6614765"
+        }
+      },
+      "Published" : "2021-06-05T05:57:51Z",
+      "Title" : "Leavenworth, Washington 98826, USA",
+      "Updated" : "2021-06-05T05:57:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.3444919, 47.6142073 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15698169554662695837",
+      "Location" : {
+        "Address" : "2221 3rd Ave, Seattle, WA 98121, United States",
+        "Business Name" : "Dan's Belltown Grocery",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "47.6142073",
+          "Longitude" : "-122.3444919"
+        }
+      },
+      "Published" : "2021-06-03T01:18:25Z",
+      "Title" : "Dan's Belltown Grocery",
+      "Updated" : "2021-06-03T01:18:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.3286296, 47.6809700 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=547689519624716874",
+      "Location" : {
+        "Address" : "Seattle, WA 98115, United States",
+        "Business Name" : "Green Lake Park Public Parking",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "47.6809700",
+          "Longitude" : "-122.3286296"
+        }
+      },
+      "Published" : "2021-05-14T00:35:34Z",
+      "Title" : "Green Lake Park Public Parking",
+      "Updated" : "2021-05-14T00:35:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1187562, 51.5221168 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=51.522117,-0.118756",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "51.5221168",
+          "Longitude" : "-0.1187562"
+        }
+      },
+      "Published" : "2018-07-11T19:58:02Z",
+      "Title" : "51.522117,-0.118756",
+      "Updated" : "2021-05-06T11:59:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.3228136, 47.6138591 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10036848156494642595",
+      "Location" : {
+        "Address" : "711 E Pike St, Seattle, WA 98122, United States",
+        "Business Name" : "Stitches",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "47.6138591",
+          "Longitude" : "-122.3228136"
+        }
+      },
+      "Published" : "2021-05-04T16:09:19Z",
+      "Title" : "Stitches",
+      "Updated" : "2021-05-04T16:09:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.3402491, 47.6136620 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2014+4th+Ave,+Seattle,+WA+98121,+USA&ftid=0x5490154b7da12031:0x9e924594a18e82e4",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "47.6136620",
+          "Longitude" : "-122.3402491"
+        }
+      },
+      "Published" : "2021-04-30T16:59:56Z",
+      "Title" : "2014 4th Ave, Seattle, WA 98121, USA",
+      "Updated" : "2021-04-30T16:59:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.3417160, 47.6502925 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4397447801393781149",
+      "Location" : {
+        "Address" : "3535 Interlake Ave N, Seattle, WA 98103, United States",
+        "Business Name" : "Seattle Bouldering Project, Fremont",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "47.6502925",
+          "Longitude" : "-122.3417160"
+        }
+      },
+      "Published" : "2021-04-13T20:07:19Z",
+      "Title" : "Seattle Bouldering Project, Fremont",
+      "Updated" : "2021-04-13T20:07:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.3188756, 47.6139458 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17470133093516548324",
+      "Location" : {
+        "Address" : "1009 E Pike St, Seattle, WA 98122, United States",
+        "Business Name" : "Big Mario's Pizza",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "47.6139458",
+          "Longitude" : "-122.3188756"
+        }
+      },
+      "Published" : "2021-04-04T01:10:57Z",
+      "Title" : "Big Mario's Pizza",
+      "Updated" : "2021-04-04T01:10:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -121.1138092, 47.5347512 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Squaw+Lake,+Washington+98940&ftid=0x549a673ee73ca699:0x74adc3bc67e3fa70",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "47.5347512",
+          "Longitude" : "-121.1138092"
+        }
+      },
+      "Published" : "2021-04-03T04:32:23Z",
+      "Title" : "Squaw Lake, Washington 98940",
+      "Updated" : "2021-04-03T04:32:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -121.8377019, 47.5417209 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Snoqualmie+Falls,+Snoqualmie,+WA+98024&ftid=0x54907bd11b8d91c1:0xed0ab0625a0dad38",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "47.5417209",
+          "Longitude" : "-121.8377019"
+        }
+      },
+      "Published" : "2021-03-31T20:36:06Z",
+      "Title" : "Snoqualmie Falls, Snoqualmie, WA 98024",
+      "Updated" : "2021-03-31T20:36:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -119.3127358, 47.1014031 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12414137391668578508",
+      "Location" : {
+        "Address" : "466 Melva Ln, Moses Lake, WA 98837, United States",
+        "Business Name" : "Motel Oasis",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "47.1014031",
+          "Longitude" : "-119.3127358"
+        }
+      },
+      "Published" : "2021-03-30T00:40:31Z",
+      "Title" : "Motel Oasis",
+      "Updated" : "2021-03-30T00:40:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.3290134, 47.6399011 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=60+E+Lynn+St,+Seattle,+WA+98102&ftid=0x5490151e4ae78183:0x9a3efb9eaedad327",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "47.6399011",
+          "Longitude" : "-122.3290134"
+        }
+      },
+      "Published" : "2021-03-24T06:30:32Z",
+      "Title" : "60 E Lynn St, Seattle, WA 98102",
+      "Updated" : "2021-03-24T06:30:32Z"
+    },
+    "type" : "Feature"
+  }

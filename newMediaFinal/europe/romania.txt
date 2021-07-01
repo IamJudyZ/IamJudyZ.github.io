@@ -1,0 +1,43 @@
+ {
+    "geometry" : {
+      "coordinates" : [ 25.0879133, 46.5999876 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2333123795297262936",
+      "Location" : {
+        "Address" : "Strada Vulturului 39, Sovata 545500, Romania",
+        "Business Name" : "Fabesca Hotel",
+        "Country Code" : "RO",
+        "Geo Coordinates" : {
+          "Latitude" : "46.5999876",
+          "Longitude" : "25.0879133"
+        }
+      },
+      "Published" : "2019-07-08T08:57:12Z",
+      "Title" : "Fabesca Hotel",
+      "Updated" : "2019-07-08T08:57:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 25.0896780, 46.6028690 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11098111536113255078",
+      "Location" : {
+        "Address" : "Strada Vulturului 42, Sovata 545500, Romania",
+        "Business Name" : "Hotel Alunis Health Spa",
+        "Country Code" : "RO",
+        "Geo Coordinates" : {
+          "Latitude" : "46.6028690",
+          "Longitude" : "25.0896780"
+        }
+      },
+      "Published" : "2019-07-08T08:56:23Z",
+      "Title" : "Hotel Aluniș",
+      "Updated" : "2019-07-08T08:56:23Z"
+    },
+    "type" : "Feature"
+  }, 

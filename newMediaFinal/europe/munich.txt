@@ -1,0 +1,168 @@
+ {
+    "geometry" : {
+      "coordinates" : [ 11.5637934, 48.1489282 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7791195120074645618",
+      "Location" : {
+        "Address" : "Gabelsbergerstraße 34, 80333 München, Germany",
+        "Business Name" : "Mr. Pancake",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "48.1489282",
+          "Longitude" : "11.5637934"
+        }
+      },
+      "Published" : "2016-07-09T09:22:30Z",
+      "Title" : "Mr. Pancake",
+      "Updated" : "2016-07-09T09:22:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.5507514, 48.1423368 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6717974382060739845",
+      "Location" : {
+        "Address" : "Hackerbrücke 4, 80335 München, Germany",
+        "Business Name" : "VAPIANO",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "48.1423368",
+          "Longitude" : "11.5507514"
+        }
+      },
+      "Published" : "2016-07-08T18:40:17Z",
+      "Title" : "Vapiano München Hackerbrücke",
+      "Updated" : "2016-07-08T18:40:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.5923144, 48.1520760 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1748851099207953217",
+      "Location" : {
+        "Address" : "Englischer Garten 3, 80538 München, Germany",
+        "Business Name" : "Biergarten am Chinesischen Turm",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "48.1520760",
+          "Longitude" : "11.5923144"
+        }
+      },
+      "Published" : "2016-07-08T13:55:23Z",
+      "Title" : "Chinesischer Turm",
+      "Updated" : "2016-07-08T13:55:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.5754485, 48.1373932 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16045570878226697139",
+      "Location" : {
+        "Address" : "Marienplatz, 80331 München, Germany",
+        "Business Name" : "Marienplatz",
+        "Geo Coordinates" : {
+          "Latitude" : "48.1373932",
+          "Longitude" : "11.5754485"
+        }
+      },
+      "Published" : "2016-07-08T13:54:48Z",
+      "Title" : "Marienplatz",
+      "Updated" : "2016-07-08T13:54:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.5762549, 48.1351143 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3023793905419693249",
+      "Location" : {
+        "Address" : "Viktualienmarkt 3, 80331 München, Germany",
+        "Business Name" : "Victuals Market",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "48.1351143",
+          "Longitude" : "11.5762549"
+        }
+      },
+      "Published" : "2016-07-08T13:54:42Z",
+      "Title" : "Victuals Market",
+      "Updated" : "2016-07-08T13:54:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.5569807, 48.1301042 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6183999283168110892",
+      "Location" : {
+        "Address" : "Mozartstraße 4, 80336 München, Germany",
+        "Business Name" : "Smart Stay Hostel Munich City",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "48.1301042",
+          "Longitude" : "11.5569807"
+        }
+      },
+      "Published" : "2016-07-08T13:17:41Z",
+      "Title" : "Smart Stay Hostel Munich City München Jugendherberge Hostel",
+      "Updated" : "2016-07-08T13:17:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.5895604, 48.1616042 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3825358598634419231",
+      "Location" : {
+        "Address" : "Occamstraße 4, 80802 München, Germany",
+        "Business Name" : "Ruff's Burger",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "48.1616042",
+          "Longitude" : "11.5895604"
+        }
+      },
+      "Published" : "2016-07-08T13:15:54Z",
+      "Title" : "Ruff`s Burger",
+      "Updated" : "2016-07-08T13:15:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.5637537, 48.1501419 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1181045429748300095",
+      "Location" : {
+        "Address" : "Augustenstraße 74, 80333 München, Germany",
+        "Business Name" : "Burrito Company",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "48.1501419",
+          "Longitude" : "11.5637537"
+        }
+      },
+      "Published" : "2016-07-08T13:14:16Z",
+      "Title" : "Burrito Company",
+      "Updated" : "2016-07-08T13:14:16Z"
+    },
+    "type" : "Feature"
+  },

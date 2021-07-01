@@ -1,0 +1,326 @@
+ {
+    "geometry" : {
+      "coordinates" : [ 14.4352953, 50.0831830 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4487406068212880746",
+      "Location" : {
+        "Address" : "Vinohrady, 120 00 Prague 2, Czechia",
+        "Business Name" : "Prague",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "50.0831830",
+          "Longitude" : "14.4352953"
+        }
+      },
+      "Published" : "2018-08-19T06:20:54Z",
+      "Title" : "Prague, Prague Main Railway Station",
+      "Updated" : "2018-08-19T06:20:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4278374, 50.0895653 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4786235339807206238",
+      "Location" : {
+        "Address" : "Revoluční 655/1, 110 00 Staré Město, Czechia",
+        "Business Name" : "Patagonia Prague",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "50.0895653",
+          "Longitude" : "14.4278374"
+        }
+      },
+      "Published" : "2018-08-18T16:24:15Z",
+      "Title" : "Patagonia store Prague",
+      "Updated" : "2018-08-18T16:24:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4207963, 50.0816509 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15437476181129411376",
+      "Location" : {
+        "Address" : "Charvátova, 110 00 Nové Město, Czechia",
+        "Business Name" : "Franz Kafka - Rotating Head",
+        "Geo Coordinates" : {
+          "Latitude" : "50.0816509",
+          "Longitude" : "14.4207963"
+        }
+      },
+      "Published" : "2018-08-18T10:03:37Z",
+      "Title" : "Socha Franze Kafky",
+      "Updated" : "2018-08-18T10:03:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4179670, 50.0859930 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5293610899376005354",
+      "Location" : {
+        "Address" : "Husova 21, 110 00 Staré Město, Czechia",
+        "Business Name" : "Apple Museum",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "50.0859930",
+          "Longitude" : "14.4179670"
+        }
+      },
+      "Published" : "2018-08-18T10:02:02Z",
+      "Title" : "Apple Museum",
+      "Updated" : "2018-08-18T10:02:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4140940, 50.0705810 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13702121339164099266",
+      "Location" : {
+        "Address" : "náplavka Rašínova nábřeží, Praha 2, 120 00 Praha 2, Czechia",
+        "Business Name" : "Farmers' Saturday market",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "50.0705810",
+          "Longitude" : "14.4140940"
+        }
+      },
+      "Published" : "2018-08-18T09:48:16Z",
+      "Title" : "Farmers' market",
+      "Updated" : "2018-08-18T09:48:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4207065, 50.0870215 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17400577118091478678",
+      "Location" : {
+        "Address" : "Staroměstské nám. 1, 110 00 Josefov, Czechia",
+        "Business Name" : "Prague Astronomical Clock",
+        "Geo Coordinates" : {
+          "Latitude" : "50.0870215",
+          "Longitude" : "14.4207065"
+        }
+      },
+      "Published" : "2018-08-18T08:24:49Z",
+      "Title" : "Prague Astronomical Clock",
+      "Updated" : "2018-08-18T08:24:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4101352, 50.0883216 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4574602224031888865",
+      "Location" : {
+        "Address" : "Cihelná 635, 118 00 Malá Strana, Czechia",
+        "Business Name" : "Kafka Museum",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "50.0883216",
+          "Longitude" : "14.4101352"
+        }
+      },
+      "Published" : "2018-08-17T21:29:46Z",
+      "Title" : "Kafka Museum",
+      "Updated" : "2018-08-17T21:29:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.3914793, 50.0859999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=50.08599988969653,14.391479305922985",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "50.0859999",
+          "Longitude" : "14.3914793"
+        }
+      },
+      "Published" : "2018-08-17T16:33:07Z",
+      "Title" : "50.08599988969653,14.391479305922985",
+      "Updated" : "2018-08-17T16:33:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4009258, 50.0832652 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Unnamed+Road,+118+00+Praha+1,+Czechia&ftid=0x470b94fd3445e0c7:0xa0308df11800b9f8",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "50.0832652",
+          "Longitude" : "14.4009258"
+        }
+      },
+      "Published" : "2018-08-17T16:17:20Z",
+      "Title" : "Unnamed Road, 118 00 Praha 1, Czechia",
+      "Updated" : "2018-08-17T16:17:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4299905, 50.0879407 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15128526990898710682",
+      "Location" : {
+        "Address" : "V Celnici 1031/4, 118 00 Nové Město, Czechia",
+        "Business Name" : "Museum of Communism",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "50.0879407",
+          "Longitude" : "14.4299905"
+        }
+      },
+      "Published" : "2018-08-17T15:09:05Z",
+      "Title" : "Museum of Communism",
+      "Updated" : "2018-08-17T15:09:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4274504, 50.0844519 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17804340289634099674",
+      "Location" : {
+        "Address" : "Panská 7, 110 00 Nové Město, Czechia",
+        "Business Name" : "Mucha Museum",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "50.0844519",
+          "Longitude" : "14.4274504"
+        }
+      },
+      "Published" : "2018-08-17T15:05:34Z",
+      "Title" : "Mucha Museum",
+      "Updated" : "2018-08-17T15:05:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4053233, 50.0896212 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14651387043260807782",
+      "Location" : {
+        "Address" : "Valdštejnské nám. 4, 118 00 Malá Strana, Czechia",
+        "Business Name" : "Waldstein Palace (Wallenstein Palace)",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "50.0896212",
+          "Longitude" : "14.4053233"
+        }
+      },
+      "Published" : "2018-08-17T10:25:49Z",
+      "Title" : "Waldstein Palace",
+      "Updated" : "2018-08-17T10:25:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.3941367, 50.0884324 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=50.08843246814637,14.394136704504492",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "50.0884324",
+          "Longitude" : "14.3941367"
+        }
+      },
+      "Published" : "2018-08-17T10:10:38Z",
+      "Title" : "50.08843246814637,14.394136704504492",
+      "Updated" : "2018-08-17T10:10:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4081415, 50.0836528 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10041308980515866553",
+      "Location" : {
+        "Address" : "U Sovových mlýnů 2, 118 00 Malá Strana, Czechia",
+        "Business Name" : "Museum Kampa",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "50.0836528",
+          "Longitude" : "14.4081415"
+        }
+      },
+      "Published" : "2018-08-17T09:19:21Z",
+      "Title" : "Museum Kampa",
+      "Updated" : "2018-08-17T09:19:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4043300, 50.0879800 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1437356974551442918",
+      "Location" : {
+        "Address" : "Malá Strana, 118 00 Prague 1, Czechia",
+        "Business Name" : "Malostranské náměstí",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "50.0879800",
+          "Longitude" : "14.4043300"
+        }
+      },
+      "Published" : "2018-08-16T18:32:37Z",
+      "Title" : "Malostranské náměstí",
+      "Updated" : "2018-08-16T18:32:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4188250, 50.0842660 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1593850139142092299",
+      "Location" : {
+        "Address" : "Jilská 4, 110 00 Staré Město, Czechia",
+        "Business Name" : "Restaurace U Vejvodů",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "50.0842660",
+          "Longitude" : "14.4188250"
+        }
+      },
+      "Published" : "2018-08-16T17:04:20Z",
+      "Title" : "Restaurace U Vejvodů",
+      "Updated" : "2018-08-16T17:04:20Z"
+    },
+    "type" : "Feature"
+  }, 

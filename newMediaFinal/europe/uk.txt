@@ -1,0 +1,789 @@
+{
+    "geometry" : {
+      "coordinates" : [ -0.1284442, 51.5136480 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7248318190668697070",
+      "Location" : {
+        "Address" : "1 Earlham St, London WC2H 9LL, United Kingdom",
+        "Business Name" : "FOPP",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5136480",
+          "Longitude" : "-0.1284442"
+        }
+      },
+      "Published" : "2018-07-14T10:43:00Z",
+      "Title" : "FOPP Covent Garden",
+      "Updated" : "2018-07-14T10:43:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1417240, 51.5383877 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4635677899269111398",
+      "Location" : {
+        "Address" : "144 Camden High St, London NW1 0NE, United Kingdom",
+        "Business Name" : "Tortilla Camden",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5383877",
+          "Longitude" : "-0.1417240"
+        }
+      },
+      "Published" : "2018-07-12T21:20:16Z",
+      "Title" : "Tortilla",
+      "Updated" : "2018-07-12T21:20:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1386873, 51.5350837 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16646473435876139488",
+      "Location" : {
+        "Address" : "10-12 Camden High St, London NW1 0JH, United Kingdom",
+        "Business Name" : "Sainsbury's Local",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5350837",
+          "Longitude" : "-0.1386873"
+        }
+      },
+      "Published" : "2018-07-12T21:20:01Z",
+      "Title" : "Sainsbury's Local",
+      "Updated" : "2018-07-12T21:20:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.2055232, 51.5156655 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12350148047283049266",
+      "Location" : {
+        "Address" : "13 Blenheim Cres, London W11 2EE, United Kingdom",
+        "Business Name" : "The Notting Hill Book Shop Ltd",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5156655",
+          "Longitude" : "-0.2055232"
+        }
+      },
+      "Published" : "2018-07-11T20:00:43Z",
+      "Title" : "The Notting Hill Bookshop",
+      "Updated" : "2018-07-11T20:00:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1234795, 51.5354120 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18083416596117310531",
+      "Location" : {
+        "Address" : "Regent's Canal Towpath, London N1C 4LW, United Kingdom",
+        "Business Name" : "Word On The Water - The London Bookbarge",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5354120",
+          "Longitude" : "-0.1234795"
+        }
+      },
+      "Published" : "2018-07-11T19:59:26Z",
+      "Title" : "Word On The Water",
+      "Updated" : "2018-07-11T19:59:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1252423, 51.5254445 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8560008933908432240",
+      "Location" : {
+        "Address" : "66 Marchmont St, London WC1N 1AB, United Kingdom",
+        "Business Name" : "Gay's The Word",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5254445",
+          "Longitude" : "-0.1252423"
+        }
+      },
+      "Published" : "2018-07-11T19:57:24Z",
+      "Title" : "Gay's The Word",
+      "Updated" : "2018-07-11T19:57:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1519917, 51.5204015 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16613852265345210498",
+      "Location" : {
+        "Address" : "84 Marylebone High St, London W1U 4QW, United Kingdom",
+        "Business Name" : "Daunt Books Marylebone",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5204015",
+          "Longitude" : "-0.1519917"
+        }
+      },
+      "Published" : "2018-07-11T19:56:21Z",
+      "Title" : "Daunt Books",
+      "Updated" : "2018-07-11T19:56:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1246994, 51.5136070 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3231642051684824477",
+      "Location" : {
+        "Address" : "9-15 Neal St, London WC2H 9PU, United Kingdom",
+        "Business Name" : "Brandy Melville - Covent Garden",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5136070",
+          "Longitude" : "-0.1246994"
+        }
+      },
+      "Published" : "2018-07-11T19:07:51Z",
+      "Title" : "Brandy Melville - Covent Garden",
+      "Updated" : "2018-07-11T19:07:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1337884, 51.5277284 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12508592726336927245",
+      "Location" : {
+        "Address" : "Euston Station, London NW1 2DU, United Kingdom",
+        "Business Name" : "Sainsbury's Local",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5277284",
+          "Longitude" : "-0.1337884"
+        }
+      },
+      "Published" : "2018-07-11T18:36:34Z",
+      "Title" : "Sainsbury's Local",
+      "Updated" : "2018-07-11T18:36:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1205592, 51.5310780 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14390170322106393861",
+      "Location" : {
+        "Address" : "266 Pentonville Rd, London N1 9LE, United Kingdom",
+        "Business Name" : "Sainsbury's Local",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5310780",
+          "Longitude" : "-0.1205592"
+        }
+      },
+      "Published" : "2018-07-11T18:36:13Z",
+      "Title" : "Sainsbury's Local",
+      "Updated" : "2018-07-11T18:36:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1301717, 51.5231157 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=51.52311576054551,-0.13017162680625916",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "51.5231157",
+          "Longitude" : "-0.1301717"
+        }
+      },
+      "Published" : "2018-07-11T17:02:36Z",
+      "Title" : "51.52311576054551,-0.13017162680625916",
+      "Updated" : "2018-07-11T17:02:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.0759493, 51.5081124 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12159518736249087079",
+      "Location" : {
+        "Address" : "London EC3N 4AB, United Kingdom",
+        "Business Name" : "Tower of London",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5081124",
+          "Longitude" : "-0.0759493"
+        }
+      },
+      "Published" : "2018-07-10T19:49:43Z",
+      "Title" : "Tower of London",
+      "Updated" : "2018-07-10T19:49:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.0993564, 51.5075953 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2404699718086963553",
+      "Location" : {
+        "Address" : "Bankside, London SE1 9TG, United Kingdom",
+        "Business Name" : "Tate Modern",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5075953",
+          "Longitude" : "-0.0993564"
+        }
+      },
+      "Published" : "2018-07-10T19:36:21Z",
+      "Title" : "Tate Modern",
+      "Updated" : "2018-07-10T19:36:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1195537, 51.5032973 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4796882358840715922",
+      "Location" : {
+        "Address" : "Riverside Building, County Hall, London SE1 7PB, United Kingdom",
+        "Business Name" : "lastminute.com London Eye",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5032973",
+          "Longitude" : "-0.1195537"
+        }
+      },
+      "Published" : "2018-07-10T19:22:22Z",
+      "Title" : "Coca-Cola London Eye",
+      "Updated" : "2018-07-10T19:22:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1348109, 51.5024597 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18398735506960162143",
+      "Location" : {
+        "Address" : "London SW1A 2BJ, United Kingdom",
+        "Business Name" : "St James's Park",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5024597",
+          "Longitude" : "-0.1348109"
+        }
+      },
+      "Published" : "2018-07-10T19:20:37Z",
+      "Title" : "St James's Park",
+      "Updated" : "2018-07-10T19:20:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.0983506, 51.5138453 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4187561509782511582",
+      "Location" : {
+        "Address" : "St. Paul's Churchyard, London EC4M 8AD, United Kingdom",
+        "Business Name" : "St. Paul's Cathedral",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5138453",
+          "Longitude" : "-0.0983506"
+        }
+      },
+      "Published" : "2018-07-10T19:20:21Z",
+      "Title" : "St. Paul's Cathedral",
+      "Updated" : "2018-07-10T19:20:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1277886, 51.4910621 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17663075481774205088",
+      "Location" : {
+        "Address" : "Millbank, London SW1P 4RG, United Kingdom",
+        "Business Name" : "Tate Britain",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.4910621",
+          "Longitude" : "-0.1277886"
+        }
+      },
+      "Published" : "2018-07-10T19:19:42Z",
+      "Title" : "Tate Britain",
+      "Updated" : "2018-07-10T19:19:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1282990, 51.5089290 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4805205997576757428",
+      "Location" : {
+        "Address" : "Trafalgar Square, London WC2N 5DN, United Kingdom",
+        "Business Name" : "The National Gallery",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5089290",
+          "Longitude" : "-0.1282990"
+        }
+      },
+      "Published" : "2018-07-10T19:18:02Z",
+      "Title" : "The National Gallery",
+      "Updated" : "2018-07-10T19:18:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1276248, 51.5033635 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17907055636513445401",
+      "Location" : {
+        "Address" : "10 Downing St, London SW1A 2AA, United Kingdom",
+        "Business Name" : "10 Downing Street",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5033635",
+          "Longitude" : "-0.1276248"
+        }
+      },
+      "Published" : "2018-07-10T19:17:51Z",
+      "Title" : "10 Downing Street",
+      "Updated" : "2018-07-10T19:17:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1248092, 51.4994794 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=538596384900521852",
+      "Location" : {
+        "Address" : "London SW1A 0AA, United Kingdom",
+        "Business Name" : "Palace of Westminster",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.4994794",
+          "Longitude" : "-0.1248092"
+        }
+      },
+      "Published" : "2018-07-10T19:17:41Z",
+      "Title" : "Palace of Westminster",
+      "Updated" : "2018-07-10T19:17:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1246254, 51.5007292 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13226830714359798441",
+      "Location" : {
+        "Address" : "London SW1A 0AA, United Kingdom",
+        "Business Name" : "Big Ben",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5007292",
+          "Longitude" : "-0.1246254"
+        }
+      },
+      "Published" : "2018-07-10T19:17:38Z",
+      "Title" : "Big Ben",
+      "Updated" : "2018-07-10T19:17:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.0877321, 51.5078788 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11970049005355099052",
+      "Location" : {
+        "Address" : "London, United Kingdom",
+        "Business Name" : "London Bridge",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5078788",
+          "Longitude" : "-0.0877321"
+        }
+      },
+      "Published" : "2018-07-10T19:16:57Z",
+      "Title" : "London Bridge",
+      "Updated" : "2018-07-10T19:16:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.0971940, 51.5080760 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16645435677629122446",
+      "Location" : {
+        "Address" : "21 New Globe Walk, London SE1 9DT, United Kingdom",
+        "Business Name" : "Shakespeare's Globe",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5080760",
+          "Longitude" : "-0.0971940"
+        }
+      },
+      "Published" : "2018-07-10T19:16:51Z",
+      "Title" : "Shakespeare's Globe",
+      "Updated" : "2018-07-10T19:16:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.0985425, 51.5095291 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13645039339872275996",
+      "Location" : {
+        "Address" : "Thames Embankment, London, United Kingdom",
+        "Business Name" : "Millennium Bridge",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5095291",
+          "Longitude" : "-0.0985425"
+        }
+      },
+      "Published" : "2018-07-10T19:16:48Z",
+      "Title" : "Millennium Bridge",
+      "Updated" : "2018-07-10T19:16:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.2039778, 51.5134551 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=302+Westbourne+Grove,+London+W11+2PS,+UK&ftid=0x48760fe241bfae39:0x57b19d48cee81c19",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "51.5134551",
+          "Longitude" : "-0.2039778"
+        }
+      },
+      "Published" : "2018-07-10T19:15:58Z",
+      "Title" : "302 Westbourne Grove, London W11 2PS, UK",
+      "Updated" : "2018-07-10T19:15:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1632344, 51.4994055 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1580309428002753858",
+      "Location" : {
+        "Address" : "87-135 Brompton Rd, London SW1X 7XL, United Kingdom",
+        "Business Name" : "Harrods",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.4994055",
+          "Longitude" : "-0.1632344"
+        }
+      },
+      "Published" : "2018-07-10T19:14:27Z",
+      "Title" : "Harrods",
+      "Updated" : "2018-07-10T19:14:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1543613, 51.5230174 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2809629151407911844",
+      "Location" : {
+        "Address" : "Marylebone Rd, London NW1 5LR, United Kingdom",
+        "Business Name" : "Madame Tussauds London",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5230174",
+          "Longitude" : "-0.1543613"
+        }
+      },
+      "Published" : "2018-07-10T19:14:14Z",
+      "Title" : "Madame Tussauds London",
+      "Updated" : "2018-07-10T19:14:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1330541, 51.5335801 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11618364444287092988",
+      "Location" : {
+        "Address" : "The Medburn Centre, 136 Chalton St, London NW1 1RX, United Kingdom",
+        "Business Name" : "Regent High School",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5335801",
+          "Longitude" : "-0.1330541"
+        }
+      },
+      "Published" : "2018-07-09T15:49:58Z",
+      "Title" : "Regent High School",
+      "Updated" : "2018-07-09T15:49:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1301586, 51.5149444 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4181807140032156691",
+      "Location" : {
+        "Address" : "121, 123 Charing Cross Rd, London WC2H 0EW, United Kingdom",
+        "Business Name" : "Goldsmith Vintage",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5149444",
+          "Longitude" : "-0.1301586"
+        }
+      },
+      "Published" : "2018-04-21T16:40:08Z",
+      "Title" : "Goldsmith Vintage",
+      "Updated" : "2018-04-21T16:40:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1345882, 51.5134013 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2044580851430595342",
+      "Location" : {
+        "Address" : "12 Berwick St, London W1F 0PN, United Kingdom",
+        "Business Name" : "Reign Vintage",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5134013",
+          "Longitude" : "-0.1345882"
+        }
+      },
+      "Published" : "2018-04-21T16:39:44Z",
+      "Title" : "Reign Vintage",
+      "Updated" : "2018-04-21T16:39:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1373975, 51.5146551 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11864027315889150491",
+      "Location" : {
+        "Address" : "58-59 Great Marlborough St, London W1F 7JY, United Kingdom",
+        "Business Name" : "Beyond Retro Soho",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5146551",
+          "Longitude" : "-0.1373975"
+        }
+      },
+      "Published" : "2018-04-21T16:39:24Z",
+      "Title" : "Beyond Retro Soho",
+      "Updated" : "2018-04-21T16:39:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1388546, 51.5154893 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16428558093187635827",
+      "Location" : {
+        "Address" : "187 Oxford St, London W1D 2JY, United Kingdom",
+        "Business Name" : "MUJI",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5154893",
+          "Longitude" : "-0.1388546"
+        }
+      },
+      "Published" : "2018-04-21T16:35:04Z",
+      "Title" : "MUJI Oxford Street Store",
+      "Updated" : "2018-04-21T16:35:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1452416, 51.5154229 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4819209656263648868",
+      "Location" : {
+        "Address" : "300 Oxford St, London W1C 1DX, United Kingdom",
+        "Business Name" : "John Lewis & Partners",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5154229",
+          "Longitude" : "-0.1452416"
+        }
+      },
+      "Published" : "2018-04-21T15:14:01Z",
+      "Title" : "John Lewis",
+      "Updated" : "2018-04-21T15:14:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1721800, 51.4966392 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11436620009305892127",
+      "Location" : {
+        "Address" : "Cromwell Rd, London SW7 2RL, United Kingdom",
+        "Business Name" : "Victoria and Albert Museum",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.4966392",
+          "Longitude" : "-0.1721800"
+        }
+      },
+      "Published" : "2018-04-21T10:46:00Z",
+      "Title" : "Victoria and Albert Museum",
+      "Updated" : "2018-04-21T10:46:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1418900, 51.5013640 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=731461058599387815",
+      "Location" : {
+        "Address" : "London SW1A 1AA, United Kingdom",
+        "Business Name" : "Buckingham Palace",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5013640",
+          "Longitude" : "-0.1418900"
+        }
+      },
+      "Published" : "2018-04-21T10:45:52Z",
+      "Title" : "Buckingham Palace",
+      "Updated" : "2018-04-21T10:45:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.0907334, 51.5054872 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Borough+Market,+Borough+High+St,+London+SE1+9AH,+UK&ftid=0x48760357742e764d:0xd9e80796c4f5bfc5",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "51.5054872",
+          "Longitude" : "-0.0907334"
+        }
+      },
+      "Published" : "2018-04-21T10:44:59Z",
+      "Title" : "Borough Market, Borough High St, London SE1 9AH, UK",
+      "Updated" : "2018-04-21T10:44:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1626278, 51.4901665 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11785608521527826958",
+      "Location" : {
+        "Address" : "118, 118a King's Rd, London SW3 4TR, United Kingdom",
+        "Business Name" : "MUJI Kings Road",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.4901665",
+          "Longitude" : "-0.1626278"
+        }
+      },
+      "Published" : "2018-04-21T10:43:15Z",
+      "Title" : "MUJI",
+      "Updated" : "2018-04-21T10:43:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1269566, 51.5194133 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3436696222068785831",
+      "Location" : {
+        "Address" : "Great Russell St, London WC1B 3DG, United Kingdom",
+        "Business Name" : "The British Museum",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.5194133",
+          "Longitude" : "-0.1269566"
+        }
+      },
+      "Published" : "2018-04-20T10:44:17Z",
+      "Title" : "The British Museum",
+      "Updated" : "2018-04-20T10:44:17Z"
+    },
+    "type" : "Feature"
+  }, 

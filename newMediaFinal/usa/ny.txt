@@ -1,0 +1,1749 @@
+{
+    "geometry" : {
+      "coordinates" : [ -73.9799726, 40.7329070 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=276+1st+Avenue,+New+York,+NY+10009,+USA&ftid=0x89c25974fc502de1:0x7b5809cf096d1e98",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "40.7329070",
+          "Longitude" : "-73.9799726"
+        }
+      },
+      "Published" : "2020-06-01T01:18:22Z",
+      "Title" : "276 1st Avenue, New York, NY 10009, USA",
+      "Updated" : "2020-06-01T01:18:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9891340, 40.7281700 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=34+E+7th+St+%232B,+New+York,+NY+10003,+USA&ftid=0x89c2599b6334a3f5:0x3324586019ff0aa7",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "40.7281700",
+          "Longitude" : "-73.9891340"
+        }
+      },
+      "Published" : "2020-05-24T18:26:01Z",
+      "Title" : "34 E 7th St #2B, New York, NY 10003, USA",
+      "Updated" : "2020-05-24T18:26:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9866756, 40.7353794 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=134+E+17th+St,+New+York,+NY+10003,+USA&ftid=0x89c2599f65212987:0x5b0d9476db217b54",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "40.7353794",
+          "Longitude" : "-73.9866756"
+        }
+      },
+      "Published" : "2020-05-24T18:25:22Z",
+      "Title" : "134 E 17th St, New York, NY 10003, USA",
+      "Updated" : "2020-05-24T18:25:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9834538, 40.6957603 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=170+Tillary+Street,+Brooklyn,+NY,+USA&ftid=0x89c25a4aa9416e51:0x5ab81393a025d5b",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "40.6957603",
+          "Longitude" : "-73.9834538"
+        }
+      },
+      "Published" : "2020-03-19T18:08:43Z",
+      "Title" : "170 Tillary St, Brooklyn, NY 11201, USA",
+      "Updated" : "2020-03-19T18:08:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9991191, 40.7182170 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1133556338339760474",
+      "Location" : {
+        "Address" : "126 Baxter St, New York, NY 10013, United States",
+        "Business Name" : "The Camera Club of New York",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7182170",
+          "Longitude" : "-73.9991191"
+        }
+      },
+      "Published" : "2019-09-25T18:42:58Z",
+      "Title" : "The Camera Club of New York",
+      "Updated" : "2019-09-25T18:42:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9644020, 40.7699738 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12602242030877701560",
+      "Location" : {
+        "Address" : "725 Park Ave, New York, NY 10021, United States",
+        "Business Name" : "Asia Society and Museum",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7699738",
+          "Longitude" : "-73.9644020"
+        }
+      },
+      "Published" : "2019-09-17T04:01:23Z",
+      "Title" : "Asia Society and Museum",
+      "Updated" : "2019-09-17T04:01:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9778707, 40.7507471 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15067404537270138964",
+      "Location" : {
+        "Address" : "101 Park Ave, New York, NY 10178, United States",
+        "Business Name" : "AKC Museum of the Dog",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7507471",
+          "Longitude" : "-73.9778707"
+        }
+      },
+      "Published" : "2019-09-17T03:57:34Z",
+      "Title" : "AKC Museum of the Dog",
+      "Updated" : "2019-09-17T03:57:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9996076, 40.7645266 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=154075347467649009",
+      "Location" : {
+        "Address" : "Pier 86, W 46th St, New York, NY 10036, United States",
+        "Business Name" : "Intrepid Sea, Air & Space Museum",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7645266",
+          "Longitude" : "-73.9996076"
+        }
+      },
+      "Published" : "2019-09-17T03:56:31Z",
+      "Title" : "Intrepid Sea, Air & Space Museum",
+      "Updated" : "2019-09-17T03:56:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9777708, 40.7691242 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4860186124288492468",
+      "Location" : {
+        "Address" : "Central Park S, New York, NY 10023, United States",
+        "Business Name" : "Umpire Rock",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7691242",
+          "Longitude" : "-73.9777708"
+        }
+      },
+      "Published" : "2019-09-13T04:30:15Z",
+      "Title" : "Umpire Rock",
+      "Updated" : "2019-09-13T04:30:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9514063, 40.7931183 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=792740506302005301",
+      "Location" : {
+        "Address" : "1230 5th Ave, New York, NY 10029, United States",
+        "Business Name" : "El Museo",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7931183",
+          "Longitude" : "-73.9514063"
+        }
+      },
+      "Published" : "2019-09-13T03:04:04Z",
+      "Title" : "El Museo del Barrio",
+      "Updated" : "2019-09-13T03:04:04Z"
+    },
+    "type" : "Feature"
+  }, 
+
+  {
+    "geometry" : {
+      "coordinates" : [ -73.9907010, 40.7605090 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=40.760509,-73.990701",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "40.7605090",
+          "Longitude" : "-73.9907010"
+        }
+      },
+      "Published" : "2018-10-26T21:53:04Z",
+      "Title" : "40.760509,-73.990701",
+      "Updated" : "2019-03-21T06:16:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9813989, 40.7292404 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15659792684959836491",
+      "Location" : {
+        "Address" : "195 Avenue A, New York, NY 10009, United States",
+        "Business Name" : "Boris & Horton",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7292404",
+          "Longitude" : "-73.9813989"
+        }
+      },
+      "Published" : "2019-03-04T15:31:37Z",
+      "Title" : "Boris & Horton",
+      "Updated" : "2019-03-04T15:31:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9948593, 40.7549013 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17095381326584666183",
+      "Location" : {
+        "Address" : "476 9th Ave, New York, NY 10018, United States",
+        "Business Name" : "Stile's Farmers Market Wholesale & Retail",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7549013",
+          "Longitude" : "-73.9948593"
+        }
+      },
+      "Published" : "2019-01-23T20:32:21Z",
+      "Title" : "Stile's Farmers Market Wholesale & Retail",
+      "Updated" : "2019-01-23T20:32:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9566829, 40.7223157 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14604696961160142349",
+      "Location" : {
+        "Address" : "111 N 12th St, Brooklyn, NY 11249, United States",
+        "Business Name" : "The William Vale",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7223157",
+          "Longitude" : "-73.9566829"
+        }
+      },
+      "Published" : "2019-01-18T20:00:00Z",
+      "Title" : "The William Vale",
+      "Updated" : "2019-01-18T20:00:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9960189, 40.7220259 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12130017996682607222",
+      "Location" : {
+        "Address" : "43 Spring St, New York, NY 10012, United States",
+        "Business Name" : "Mejuri",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7220259",
+          "Longitude" : "-73.9960189"
+        }
+      },
+      "Published" : "2018-12-18T20:23:59Z",
+      "Title" : "Mejuri",
+      "Updated" : "2018-12-18T20:23:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9973541, 40.7259225 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7794567259815053441",
+      "Location" : {
+        "Address" : "18 W Houston St, New York, NY 10012, United States",
+        "Business Name" : "Angelika Film Center",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7259225",
+          "Longitude" : "-73.9973541"
+        }
+      },
+      "Published" : "2018-11-20T20:10:10Z",
+      "Title" : "Angelika Film Center & Café - New York",
+      "Updated" : "2018-11-20T20:10:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9946066, 40.7370646 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9545516987788639556",
+      "Location" : {
+        "Address" : "22 W 15th St, New York, NY 10011, United States",
+        "Business Name" : "Tibet House US",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7370646",
+          "Longitude" : "-73.9946066"
+        }
+      },
+      "Published" : "2018-11-20T15:01:11Z",
+      "Title" : "Tibet House US",
+      "Updated" : "2018-11-20T15:01:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9408270, 40.7469284 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10906644851264081211",
+      "Location" : {
+        "Address" : "44-19 Purves St, Long Island City, NY 11101, United States",
+        "Business Name" : "SculptureCenter",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7469284",
+          "Longitude" : "-73.9408270"
+        }
+      },
+      "Published" : "2018-11-20T15:00:21Z",
+      "Title" : "SculptureCenter",
+      "Updated" : "2018-11-20T15:00:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9366574, 40.7685098 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13894085166051441943",
+      "Location" : {
+        "Address" : "32-01 Vernon Blvd, Queens, NY 11106, United States",
+        "Business Name" : "Socrates Sculpture Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7685098",
+          "Longitude" : "-73.9366574"
+        }
+      },
+      "Published" : "2018-11-20T14:58:50Z",
+      "Title" : "Socrates Sculpture Park",
+      "Updated" : "2018-11-20T14:58:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.8301548, 40.7504225 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=373335884885327059",
+      "Location" : {
+        "Address" : "43-50 Main St, Flushing, NY 11355, United States",
+        "Business Name" : "Queens Botanical Garden",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7504225",
+          "Longitude" : "-73.8301548"
+        }
+      },
+      "Published" : "2018-11-20T14:57:58Z",
+      "Title" : "Queens Botanical Garden",
+      "Updated" : "2018-11-20T14:57:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9860508, 40.7303666 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7591524343471566789",
+      "Location" : {
+        "Address" : "299 E 11th St, New York, NY 10003, United States",
+        "Business Name" : "Insomnia Cookies",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7303666",
+          "Longitude" : "-73.9860508"
+        }
+      },
+      "Published" : "2018-11-18T06:40:30Z",
+      "Title" : "Insomnia Cookies",
+      "Updated" : "2018-11-18T06:40:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9973420, 40.7150822 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7742941412404705084",
+      "Location" : {
+        "Address" : "45 Bayard St, New York, NY 10013, United States",
+        "Business Name" : "Xi'an Famous Foods 西安名吃",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7150822",
+          "Longitude" : "-73.9973420"
+        }
+      },
+      "Published" : "2018-11-16T21:39:17Z",
+      "Title" : "Xi'an Famous Foods",
+      "Updated" : "2018-11-16T21:39:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.5263020, 40.8253997 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=7+Fieldstone+Dr,+Morristown,+NJ+07960&ftid=0x89c3a1192f12b023:0x2cd79035584cb699",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "40.8253997",
+          "Longitude" : "-74.5263020"
+        }
+      },
+      "Published" : "2018-11-15T04:22:24Z",
+      "Title" : "7 Fieldstone Dr, Morristown, NJ 07960",
+      "Updated" : "2018-11-15T04:22:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9310222, 40.7953860 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2781088787922357140",
+      "Location" : {
+        "Address" : "517 E 117th St, New York, NY 10035, United States",
+        "Business Name" : "ALDI",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7953860",
+          "Longitude" : "-73.9310222"
+        }
+      },
+      "Published" : "2018-11-15T04:19:24Z",
+      "Title" : "ALDI",
+      "Updated" : "2018-11-15T04:19:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.6773731, 40.6774879 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=31+Linden+St,+Malverne,+NY+11565,+USA&ftid=0x89c263675901fbdf:0xdbdb8ef7c159fe52",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "40.6774879",
+          "Longitude" : "-73.6773731"
+        }
+      },
+      "Published" : "2018-11-15T03:52:01Z",
+      "Title" : "31 Linden St, Malverne, NY 11565, USA",
+      "Updated" : "2018-11-15T03:52:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9577937, 40.7474520 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Pepsi-Cola+Sign,+30-99+48th+Ave,+Long+Island+City,+NY+11101,+USA&ftid=0x89c2592193908377:0x74dafe34d5d61300",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "40.7474520",
+          "Longitude" : "-73.9577937"
+        }
+      },
+      "Published" : "2018-11-15T03:50:56Z",
+      "Title" : "Pepsi-Cola Sign, 30-99 48th Ave, Long Island City, NY 11101, USA",
+      "Updated" : "2018-11-15T03:50:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9768627, 40.7428738 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8399346586622666800",
+      "Location" : {
+        "Address" : "570 2nd Ave, New York, NY 10016, United States",
+        "Business Name" : "AMC Kips Bay 15",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7428738",
+          "Longitude" : "-73.9768627"
+        }
+      },
+      "Published" : "2018-11-12T03:33:35Z",
+      "Title" : "AMC Kips Bay 15",
+      "Updated" : "2018-11-12T03:33:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9292656, 40.6854729 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=219+Malcolm+X+Blvd,+Brooklyn,+NY+11221,+USA&ftid=0x89c25c739ce8f04b:0x1d0161ff124cf0c4",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "40.6854729",
+          "Longitude" : "-73.9292656"
+        }
+      },
+      "Published" : "2018-11-03T19:28:32Z",
+      "Title" : "219 Malcolm X Blvd, Brooklyn, NY 11221, USA",
+      "Updated" : "2018-11-03T19:28:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9869074, 40.7615461 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12800123422883431300",
+      "Location" : {
+        "Address" : "807 8th Ave, New York, NY 10019, United States",
+        "Business Name" : "Times Square Diner & Grill",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7615461",
+          "Longitude" : "-73.9869074"
+        }
+      },
+      "Published" : "2018-10-28T02:51:57Z",
+      "Title" : "Times Square Diner & Grill",
+      "Updated" : "2018-10-28T02:51:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9776216, 40.7614327 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16906389583988522837",
+      "Location" : {
+        "Address" : "11 W 53rd St, New York, NY 10019, United States",
+        "Business Name" : "The Museum of Modern Art",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7614327",
+          "Longitude" : "-73.9776216"
+        }
+      },
+      "Published" : "2018-10-27T21:25:11Z",
+      "Title" : "The Museum of Modern Art",
+      "Updated" : "2018-10-27T21:25:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9632440, 40.7794366 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4264808743088595450",
+      "Location" : {
+        "Address" : "1000 5th Ave, New York, NY 10028, United States",
+        "Business Name" : "The Metropolitan Museum of Art",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7794366",
+          "Longitude" : "-73.9632440"
+        }
+      },
+      "Published" : "2018-10-27T21:24:57Z",
+      "Title" : "The Metropolitan Museum of Art",
+      "Updated" : "2018-10-27T21:24:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9761953, 40.7586117 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9826911792922012251",
+      "Location" : {
+        "Address" : "5th Ave, New York, NY 10022, United States",
+        "Business Name" : "St. Patrick's Cathedral",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7586117",
+          "Longitude" : "-73.9761953"
+        }
+      },
+      "Published" : "2018-10-26T04:47:57Z",
+      "Title" : "St. Patrick's Cathedral",
+      "Updated" : "2018-10-26T04:47:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9950968, 40.7355191 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16591053501592885198",
+      "Location" : {
+        "Address" : "10 W 13th St, New York, NY 10011, United States",
+        "Business Name" : "Beacon's Closet",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7355191",
+          "Longitude" : "-73.9950968"
+        }
+      },
+      "Published" : "2018-10-16T03:29:23Z",
+      "Title" : "Beacon's Closet",
+      "Updated" : "2018-10-16T03:29:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9842400, 40.6796610 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11023664925840070203",
+      "Location" : {
+        "Address" : "575 Degraw St, Brooklyn, NY 11217, United States",
+        "Business Name" : "Brooklyn Boulders Gowanus",
+        "Geo Coordinates" : {
+          "Latitude" : "40.6796610",
+          "Longitude" : "-73.9842400"
+        }
+      },
+      "Published" : "2018-10-12T02:16:26Z",
+      "Title" : "Brooklyn Boulders Gowanus",
+      "Updated" : "2018-10-12T02:16:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9636934, 40.8035812 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6763427716574516859",
+      "Location" : {
+        "Address" : "1030 Amsterdam Ave, New York, NY 10025, United States",
+        "Business Name" : "The Hungarian Pastry Shop",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8035812",
+          "Longitude" : "-73.9636934"
+        }
+      },
+      "Published" : "2018-10-10T21:38:44Z",
+      "Title" : "The Hungarian Pastry Shop",
+      "Updated" : "2018-10-10T21:38:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9739079, 40.7793487 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5790918532117473118",
+      "Location" : {
+        "Address" : "170 Central Park West, New York, NY 10024, United States",
+        "Business Name" : "New-York Historical Society",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7793487",
+          "Longitude" : "-73.9739079"
+        }
+      },
+      "Published" : "2018-10-10T00:03:11Z",
+      "Title" : "New-York Historical Society",
+      "Updated" : "2018-10-10T00:03:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0068178, 40.7430093 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10092022386004639031",
+      "Location" : {
+        "Address" : "75 9th Ave, New York, NY 10011, United States",
+        "Business Name" : "Posman Books",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7430093",
+          "Longitude" : "-74.0068178"
+        }
+      },
+      "Published" : "2018-10-05T19:42:35Z",
+      "Title" : "Posman Books",
+      "Updated" : "2018-10-05T19:42:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0092108, 40.7149236 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14684499598251718088",
+      "Location" : {
+        "Address" : "58 Warren St, New York, NY 10007, United States",
+        "Business Name" : "Mysterious Book Shop",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7149236",
+          "Longitude" : "-74.0092108"
+        }
+      },
+      "Published" : "2018-10-05T19:42:23Z",
+      "Title" : "The Mysterious Bookshop",
+      "Updated" : "2018-10-05T19:42:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0056817, 40.7337450 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14304639371057688883",
+      "Location" : {
+        "Address" : "238 W 10th St, New York, NY 10014, United States",
+        "Business Name" : "Three Lives & Company",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7337450",
+          "Longitude" : "-74.0056817"
+        }
+      },
+      "Published" : "2018-10-05T19:42:02Z",
+      "Title" : "Three Lives & Company",
+      "Updated" : "2018-10-05T19:42:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0047674, 40.7466065 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17178660653040463406",
+      "Location" : {
+        "Address" : "192 10th Ave, New York, NY 10011, United States",
+        "Business Name" : "192 Books",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7466065",
+          "Longitude" : "-74.0047674"
+        }
+      },
+      "Published" : "2018-10-05T19:41:45Z",
+      "Title" : "192 Books",
+      "Updated" : "2018-10-05T19:41:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9552816, 40.7183246 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=75613036925110604",
+      "Location" : {
+        "Address" : "504 Driggs Ave, Brooklyn, NY 11211, United States",
+        "Business Name" : "Buffalo Exchange",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7183246",
+          "Longitude" : "-73.9552816"
+        }
+      },
+      "Published" : "2018-10-05T19:39:51Z",
+      "Title" : "Buffalo Exchange",
+      "Updated" : "2018-10-05T19:39:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9923380, 40.7450340 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14695511051463889906",
+      "Location" : {
+        "Address" : "114 W 26th St, New York, NY 10001, United States",
+        "Business Name" : "Buffalo Exchange",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7450340",
+          "Longitude" : "-73.9923380"
+        }
+      },
+      "Published" : "2018-10-05T19:39:36Z",
+      "Title" : "Buffalo Exchange",
+      "Updated" : "2018-10-05T19:39:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9296724, 40.7049811 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14345848878539001248",
+      "Location" : {
+        "Address" : "118 Knickerbocker Ave, Brooklyn, NY 11237, United States",
+        "Business Name" : "Urban Jungle",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7049811",
+          "Longitude" : "-73.9296724"
+        }
+      },
+      "Published" : "2018-09-28T22:23:29Z",
+      "Title" : "Urban Jungle",
+      "Updated" : "2018-09-28T22:23:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9439600, 40.7074584 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1399180656945859577",
+      "Location" : {
+        "Address" : "137 Montrose Ave, Brooklyn, NY 11206, United States",
+        "Business Name" : "Olly Oxen Free Vintage - by appt",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7074584",
+          "Longitude" : "-73.9439600"
+        }
+      },
+      "Published" : "2018-09-27T17:37:37Z",
+      "Title" : "Olly Oxen Free Vintage",
+      "Updated" : "2018-09-27T17:37:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9833136, 40.6781178 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16906007974425452832",
+      "Location" : {
+        "Address" : "654 Sackett St, Brooklyn, NY 11217, United States",
+        "Business Name" : "L Train Vintage",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.6781178",
+          "Longitude" : "-73.9833136"
+        }
+      },
+      "Published" : "2018-09-27T17:37:23Z",
+      "Title" : "L Train Vintage",
+      "Updated" : "2018-09-27T17:37:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9469740, 40.7115142 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6360145136506319032",
+      "Location" : {
+        "Address" : "629 Grand St, Brooklyn, NY 11211, United States",
+        "Business Name" : "L Train Vintage",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7115142",
+          "Longitude" : "-73.9469740"
+        }
+      },
+      "Published" : "2018-09-27T17:37:16Z",
+      "Title" : "L Train Vintage",
+      "Updated" : "2018-09-27T17:37:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0099409, 40.7102342 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17110718981273004115",
+      "Location" : {
+        "Address" : "181 Broadway 4th floor, New York, NY 10007, United States",
+        "Business Name" : "Seaport Yarn",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7102342",
+          "Longitude" : "-74.0099409"
+        }
+      },
+      "Published" : "2018-09-22T17:47:47Z",
+      "Title" : "Seaport Yarn",
+      "Updated" : "2018-09-22T17:47:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9831143, 40.7301434 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9757530975917263674",
+      "Location" : {
+        "Address" : "204 1st Avenue, New York, NY 10009, United States",
+        "Business Name" : "L Train Vintage",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7301434",
+          "Longitude" : "-73.9831143"
+        }
+      },
+      "Published" : "2018-09-22T17:45:05Z",
+      "Title" : "L Train Vintage",
+      "Updated" : "2018-09-22T17:45:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9913640, 40.7327559 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11877571537811370314",
+      "Location" : {
+        "Address" : "803 Broadway, New York, NY 10003, United States",
+        "Business Name" : "Metropolis Vintage",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7327559",
+          "Longitude" : "-73.9913640"
+        }
+      },
+      "Published" : "2018-09-22T17:44:58Z",
+      "Title" : "Metropolis Vintage",
+      "Updated" : "2018-09-22T17:44:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9570707, 40.7126565 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=55324669907695902",
+      "Location" : {
+        "Address" : "120 Havemeyer St, Brooklyn, NY 11211, United States",
+        "Business Name" : "Rabbits vintage fashion",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7126565",
+          "Longitude" : "-73.9570707"
+        }
+      },
+      "Published" : "2018-09-22T17:43:14Z",
+      "Title" : "Rabbits vintage fashion",
+      "Updated" : "2018-09-22T17:43:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9594272, 40.7144163 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13029524105988354882",
+      "Location" : {
+        "Address" : "672 Driggs Ave, Brooklyn, NY 11211, United States",
+        "Business Name" : "Narnia",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7144163",
+          "Longitude" : "-73.9594272"
+        }
+      },
+      "Published" : "2018-09-22T17:43:10Z",
+      "Title" : "Narnia",
+      "Updated" : "2018-09-22T17:43:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9593424, 40.7167470 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10851435341317214608",
+      "Location" : {
+        "Address" : "132 N 5th St, Brooklyn, NY 11249, United States",
+        "Business Name" : "Awoke Vintage",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7167470",
+          "Longitude" : "-73.9593424"
+        }
+      },
+      "Published" : "2018-09-22T17:42:44Z",
+      "Title" : "Awoke Vintage",
+      "Updated" : "2018-09-22T17:42:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9989506, 40.7290027 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11680825651342324344",
+      "Location" : {
+        "Address" : "220 Thompson St #1362, New York, NY 10012, United States",
+        "Business Name" : "Purdy Girl",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7290027",
+          "Longitude" : "-73.9989506"
+        }
+      },
+      "Published" : "2018-09-18T23:51:28Z",
+      "Title" : "Purdy Girl",
+      "Updated" : "2018-09-18T23:51:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9966780, 40.6911190 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=113026243325174007",
+      "Location" : {
+        "Address" : "105 Atlantic Ave, Brooklyn, NY 11201, United States",
+        "Business Name" : "Woolyn",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.6911190",
+          "Longitude" : "-73.9966780"
+        }
+      },
+      "Published" : "2018-09-18T03:58:51Z",
+      "Title" : "Woolyn",
+      "Updated" : "2018-09-18T03:58:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9853699, 40.7239232 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=663897000154293819",
+      "Location" : {
+        "Address" : "45 Avenue A, New York, NY 10009, United States",
+        "Business Name" : "Downtown Yarns",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7239232",
+          "Longitude" : "-73.9853699"
+        }
+      },
+      "Published" : "2018-09-18T03:58:38Z",
+      "Title" : "Downtown Yarns",
+      "Updated" : "2018-09-18T03:58:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9862705, 40.7270389 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9764927003567477153",
+      "Location" : {
+        "Address" : "84 E 7th St, New York, NY 10003, United States",
+        "Business Name" : "AuH2O",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7270389",
+          "Longitude" : "-73.9862705"
+        }
+      },
+      "Published" : "2018-09-17T19:50:02Z",
+      "Title" : "AuH2O",
+      "Updated" : "2018-09-17T19:50:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0011040, 40.7222217 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10195294054724558094",
+      "Location" : {
+        "Address" : "459 Broome St, New York, NY 10013, United States",
+        "Business Name" : "Purl Soho",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7222217",
+          "Longitude" : "-74.0011040"
+        }
+      },
+      "Published" : "2018-09-08T01:19:09Z",
+      "Title" : "Purl Soho",
+      "Updated" : "2018-09-08T01:19:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9487406, 40.7485996 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6479858266603813675",
+      "Location" : {
+        "Address" : "11-11 44th Dr, Queens, NY 11101, United States",
+        "Business Name" : "The Cliffs at LIC",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7485996",
+          "Longitude" : "-73.9487406"
+        }
+      },
+      "Published" : "2018-09-07T17:01:47Z",
+      "Title" : "The Cliffs at LIC",
+      "Updated" : "2018-09-07T17:01:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9679122, 40.7146992 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5218165484961928214",
+      "Location" : {
+        "Address" : "300 Kent Ave, Brooklyn, NY 11249, United States",
+        "Business Name" : "Domino Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7146992",
+          "Longitude" : "-73.9679122"
+        }
+      },
+      "Published" : "2018-09-01T21:07:44Z",
+      "Title" : "Domino Park",
+      "Updated" : "2018-09-01T21:07:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9618422, 40.7133601 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=681304942148933934",
+      "Location" : {
+        "Address" : "309 Bedford Ave, Brooklyn, NY 11211, United States",
+        "Business Name" : "Arbor Vitae Vintage Clothing",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7133601",
+          "Longitude" : "-73.9618422"
+        }
+      },
+      "Published" : "2018-09-01T19:19:29Z",
+      "Title" : "Arbor Vitae Vintage Clothing",
+      "Updated" : "2018-09-01T19:19:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9886867, 40.7179913 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18152833235430150257",
+      "Location" : {
+        "Address" : "79 Essex St, New York, NY 10002, United States",
+        "Business Name" : "International Center of Photography Museum",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7179913",
+          "Longitude" : "-73.9886867"
+        }
+      },
+      "Published" : "2018-08-31T17:22:26Z",
+      "Title" : "International Center of Photography Museum",
+      "Updated" : "2018-08-31T17:22:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9897417, 40.7038044 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9101945187684024069",
+      "Location" : {
+        "Address" : "behind the dog park, 99 Plymouth St, Brooklyn, NY 11201, United States",
+        "Business Name" : "The Cliffs at DUMBO",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7038044",
+          "Longitude" : "-73.9897417"
+        }
+      },
+      "Published" : "2018-08-31T06:02:11Z",
+      "Title" : "The Cliffs at DUMBO",
+      "Updated" : "2018-08-31T06:02:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0083221, 40.7482384 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3182486660957348644",
+      "Location" : {
+        "Address" : "62 Chelsea Piers, New York, NY 10011, United States",
+        "Business Name" : "Chelsea Piers",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7482384",
+          "Longitude" : "-74.0083221"
+        }
+      },
+      "Published" : "2018-08-31T05:54:17Z",
+      "Title" : "Chelsea Piers Sports and Entertainment Complex",
+      "Updated" : "2018-08-31T05:54:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9919328, 40.7603978 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=406+W+45th+St,+New+York,+NY+10036,+USA&ftid=0x89c2585233504bfb:0xf14c57d15f89d034",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "40.7603978",
+          "Longitude" : "-73.9919328"
+        }
+      },
+      "Published" : "2018-08-30T11:53:02Z",
+      "Title" : "406 W 45th St, New York, NY 10036, USA",
+      "Updated" : "2018-08-30T11:53:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9211939, 40.7062335 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10797200514280115617",
+      "Location" : {
+        "Address" : "1329 Willoughby Ave, Brooklyn, NY 11237, United States",
+        "Business Name" : "Sweet Generation",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7062335",
+          "Longitude" : "-73.9211939"
+        }
+      },
+      "Published" : "2018-08-28T18:00:24Z",
+      "Title" : "Sweet Generation",
+      "Updated" : "2018-08-28T18:00:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9541010, 40.7310440 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5825334902796017332",
+      "Location" : {
+        "Address" : "924 Manhattan Ave, Brooklyn, NY 11222, United States",
+        "Business Name" : "The Brew Inn",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7310440",
+          "Longitude" : "-73.9541010"
+        }
+      },
+      "Published" : "2018-08-28T17:18:50Z",
+      "Title" : "The Brew Inn",
+      "Updated" : "2018-08-28T17:18:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0117692, 40.7156027 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15033689038610319155",
+      "Location" : {
+        "Address" : "97 Warren St, New York, NY 10007, United States",
+        "Business Name" : "Bed Bath & Beyond",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7156027",
+          "Longitude" : "-74.0117692"
+        }
+      },
+      "Published" : "2018-08-28T12:51:29Z",
+      "Title" : "Bed Bath & Beyond",
+      "Updated" : "2018-08-28T12:51:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0109144, 40.7143284 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14081133656207041242",
+      "Location" : {
+        "Address" : "255 Greenwich St, New York, NY 10007, United States",
+        "Business Name" : "Target",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7143284",
+          "Longitude" : "-74.0109144"
+        }
+      },
+      "Published" : "2018-08-28T12:51:24Z",
+      "Title" : "Target",
+      "Updated" : "2018-08-28T12:51:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0047403, 40.7109684 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=One+Pace+Plaza,+New+York,+NY+10038&ftid=0x89c25a22f44c9d9f:0x39aa6b555bf2748b",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "40.7109684",
+          "Longitude" : "-74.0047403"
+        }
+      },
+      "Published" : "2018-08-28T04:43:50Z",
+      "Title" : "One Pace Plaza, New York, NY 10038",
+      "Updated" : "2018-08-28T04:43:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0017950, 40.7338770 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5296131654587321117",
+      "Location" : {
+        "Address" : "45 Christopher St, New York, NY 10014, United States",
+        "Business Name" : "Citipups Village",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7338770",
+          "Longitude" : "-74.0017950"
+        }
+      },
+      "Published" : "2018-08-28T04:41:18Z",
+      "Title" : "Citipups Village",
+      "Updated" : "2018-08-28T04:41:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9872776, 40.7217009 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3710710270524481927",
+      "Location" : {
+        "Address" : "178 Ludlow St, New York, NY 10002, United States",
+        "Business Name" : "Sweet Chick",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7217009",
+          "Longitude" : "-73.9872776"
+        }
+      },
+      "Published" : "2018-08-28T00:46:13Z",
+      "Title" : "Sweet Chick",
+      "Updated" : "2018-08-28T00:46:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9871139, 40.7290155 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8456962844444295591",
+      "Location" : {
+        "Address" : "144 2nd Ave, New York, NY 10003, United States",
+        "Business Name" : "Veselka",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7290155",
+          "Longitude" : "-73.9871139"
+        }
+      },
+      "Published" : "2018-08-28T00:36:10Z",
+      "Title" : "Veselka",
+      "Updated" : "2018-08-28T00:36:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9865790, 40.6942036 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15752238261220970999",
+      "Location" : {
+        "Address" : "6 MetroTech Center, Brooklyn, NY 11201, United States",
+        "Business Name" : "New York University Tandon School of Engineering",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.6942036",
+          "Longitude" : "-73.9865790"
+        }
+      },
+      "Published" : "2018-08-27T21:52:23Z",
+      "Title" : "New York University Tandon School of Engineering",
+      "Updated" : "2018-08-27T21:52:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9990565, 40.7194036 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6568702679406812717",
+      "Location" : {
+        "Address" : "215 Centre St, New York, NY 10013, United States",
+        "Business Name" : "Museum of Chinese in America",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7194036",
+          "Longitude" : "-73.9990565"
+        }
+      },
+      "Published" : "2018-08-26T15:18:53Z",
+      "Title" : "Museum of Chinese In America",
+      "Updated" : "2018-08-26T15:18:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9934698, 40.7239810 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1496167149722447091",
+      "Location" : {
+        "Address" : "264 Elizabeth St, New York, NY 10012, United States",
+        "Business Name" : "TOMS New York",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7239810",
+          "Longitude" : "-73.9934698"
+        }
+      },
+      "Published" : "2018-08-25T22:35:48Z",
+      "Title" : "TOMS New York",
+      "Updated" : "2018-08-25T22:35:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9718008, 40.7569246 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16870953580207136889",
+      "Location" : {
+        "Address" : "569 Lexington Ave, New York, NY 10022, United States",
+        "Business Name" : "DoubleTree by Hilton Hotel Metropolitan - New York City",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7569246",
+          "Longitude" : "-73.9718008"
+        }
+      },
+      "Published" : "2018-08-25T18:14:18Z",
+      "Title" : "DoubleTree by Hilton Hotel Metropolitan - New York City",
+      "Updated" : "2018-08-25T18:14:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9946627, 40.7320846 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9179306088940341168",
+      "Location" : {
+        "Address" : "32 University Pl, New York, NY 10003, United States",
+        "Business Name" : "Chase Bank",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7320846",
+          "Longitude" : "-73.9946627"
+        }
+      },
+      "Published" : "2018-08-25T16:09:41Z",
+      "Title" : "Chase Bank",
+      "Updated" : "2018-08-25T16:09:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0059269, 40.7506953 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15008599987788094748",
+      "Location" : {
+        "Address" : "231 11th Ave, New York, NY 10001, United States",
+        "Business Name" : "Printed Matter, Inc.",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7506953",
+          "Longitude" : "-74.0059269"
+        }
+      },
+      "Published" : "2018-08-25T16:05:24Z",
+      "Title" : "Printed Matter, Inc.",
+      "Updated" : "2018-08-25T16:05:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0047649, 40.7479925 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6358908248867355793",
+      "Location" : {
+        "Address" : "New York, NY 10011, United States",
+        "Business Name" : "The High Line",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7479925",
+          "Longitude" : "-74.0047649"
+        }
+      },
+      "Published" : "2018-08-24T23:00:39Z",
+      "Title" : "The High Line",
+      "Updated" : "2018-08-24T23:00:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.7781391, 40.6413111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17028024512003641840",
+      "Location" : {
+        "Address" : "Queens, NY 11430, United States",
+        "Business Name" : "John F. Kennedy International Airport",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.6413111",
+          "Longitude" : "-73.7781391"
+        }
+      },
+      "Published" : "2018-08-14T19:22:11Z",
+      "Title" : "John F. Kennedy International Airport",
+      "Updated" : "2018-08-14T19:22:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.1008627, 41.4984032 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6689345890797655517",
+      "Location" : {
+        "Address" : "1180 1st St, New Windsor, NY 12553, United States",
+        "Business Name" : "New York Stewart International Airport",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.4984032",
+          "Longitude" : "-74.1008627"
+        }
+      },
+      "Published" : "2018-08-14T19:20:38Z",
+      "Title" : "New York Stewart International Airport",
+      "Updated" : "2018-08-14T19:20:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.8469606, 40.7100344 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2290072388268036853",
+      "Location" : {
+        "Address" : "106-03 Metropolitan Ave, Forest Hills, NY 11375, United States",
+        "Business Name" : "Cinemart Cinemas",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7100344",
+          "Longitude" : "-73.8469606"
+        }
+      },
+      "Published" : "2018-08-14T10:09:43Z",
+      "Title" : "Cinemart Cinemas",
+      "Updated" : "2018-08-14T10:09:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9897700, 40.7727833 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=21+West+End+Ave+%233309,+New+York,+NY+10069,+USA&ftid=0x89c2585c381024c7:0x691e757677029f32",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "40.7727833",
+          "Longitude" : "-73.9897700"
+        }
+      },
+      "Published" : "2018-07-24T22:22:58Z",
+      "Title" : "21 West End Ave #3309, New York, NY 10069, United States",
+      "Updated" : "2018-07-24T22:22:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9622273, 40.7149956 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=122495668585296470",
+      "Location" : {
+        "Address" : "137 Grand St, Brooklyn, NY 11249, United States",
+        "Business Name" : "Package Free",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7149956",
+          "Longitude" : "-73.9622273"
+        }
+      },
+      "Published" : "2018-04-01T12:02:39Z",
+      "Title" : "Package Free",
+      "Updated" : "2018-04-01T12:02:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0048110, 40.7110772 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9946857219066502943",
+      "Location" : {
+        "Address" : "One Pace Plaza, New York, NY 10038, United States",
+        "Business Name" : "Pace University",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7110772",
+          "Longitude" : "-74.0048110"
+        }
+      },
+      "Published" : "2018-04-01T11:28:35Z",
+      "Title" : "Pace University",
+      "Updated" : "2018-04-01T11:28:35Z"
+    },
+    "type" : "Feature"
+  }, 

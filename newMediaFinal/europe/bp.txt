@@ -1,0 +1,525 @@
+ {
+    "geometry" : {
+      "coordinates" : [ 19.0264890, 47.5053655 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Budapest,+M%C3%A1tray+u.,+1012&ftid=0x4741dc1fd6d71561:0xf111fb259c111163",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "47.5053655",
+          "Longitude" : "19.0264890"
+        }
+      },
+      "Published" : "2020-08-22T23:34:09Z",
+      "Title" : "Mátray St, Budapest, 1012",
+      "Updated" : "2020-08-22T23:34:09Z"
+    },
+    "type" : "Feature"
+  },  {
+    "geometry" : {
+      "coordinates" : [ 19.1418740, 47.4591115 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11445039232095787831",
+      "Location" : {
+        "Address" : "Budapest, Üllői út 214, 1191 Hungary",
+        "Business Name" : "Laguna sushi",
+        "Country Code" : "HU",
+        "Geo Coordinates" : {
+          "Latitude" : "47.4591115",
+          "Longitude" : "19.1418740"
+        }
+      },
+      "Published" : "2020-01-17T13:02:48Z",
+      "Title" : "Laguna sushi",
+      "Updated" : "2020-01-17T13:02:48Z"
+    },
+    "type" : "Feature"
+  },
+
+ {
+    "geometry" : {
+      "coordinates" : [ 16.9679338, 46.9242449 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=P%C3%B3kaszepetk,+8932+Hungary&ftid=0x476924fdec6a96ed:0xa68554b96b8fab8d",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "46.9242449",
+          "Longitude" : "16.9679338"
+        }
+      },
+      "Published" : "2018-12-11T03:26:39Z",
+      "Title" : "Pókaszepetk, 8932 Hungary",
+      "Updated" : "2018-12-11T03:26:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0661216, 47.5060262 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Budapest,+Csengery+u.+33,+1067&ftid=0x4741dc6e3b5645bb:0x5c1ae9be6b1bac39",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "47.5060262",
+          "Longitude" : "19.0661216"
+        }
+      },
+      "Published" : "2019-08-30T10:44:38Z",
+      "Title" : "Csengery u. 33, Budapest, 1067",
+      "Updated" : "2019-08-30T10:44:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 16.5891885, 47.6604131 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=47.660413,16.589188",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "47.6604131",
+          "Longitude" : "16.5891885"
+        }
+      },
+      "Published" : "2018-06-29T12:39:17Z",
+      "Title" : "47.660413,16.589188",
+      "Updated" : "2019-08-30T09:51:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0654116, 47.5383246 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Budapest,+Bodor+u.+1,+1138&ftid=0x4741dbc2b99db435:0x9b9c85bc9d55353c",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "47.5383246",
+          "Longitude" : "19.0654116"
+        }
+      },
+      "Published" : "2019-08-27T11:27:28Z",
+      "Title" : "Bodor u. 1, Budapest, 1138",
+      "Updated" : "2019-08-27T11:27:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0486999, 47.5569435 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11862603365662967891",
+      "Location" : {
+        "Address" : "Budapest, Szentendrei út 95, 1033 Hungary",
+        "Business Name" : "Monkey Boulder",
+        "Country Code" : "HU",
+        "Geo Coordinates" : {
+          "Latitude" : "47.5569435",
+          "Longitude" : "19.0486999"
+        }
+      },
+      "Published" : "2018-08-19T06:32:02Z",
+      "Title" : "Monkey Boulder",
+      "Updated" : "2018-08-19T06:32:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.1104518, 47.4414307 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18367975681864107051",
+      "Location" : {
+        "Address" : "Budapest, Kossuth Lajos utca 73, 1203 Hungary",
+        "Business Name" : "Tortuga Étterem",
+        "Country Code" : "HU",
+        "Geo Coordinates" : {
+          "Latitude" : "47.4414307",
+          "Longitude" : "19.1104518"
+        }
+      },
+      "Published" : "2018-08-09T11:18:50Z",
+      "Title" : "Tortuga Étterem",
+      "Updated" : "2018-08-09T11:18:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0607539, 47.4991011 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7418907055468026559",
+      "Location" : {
+        "Address" : "Budapest, Kazinczy u. 48, 1075 Hungary",
+        "Business Name" : "Ellátó Kert & Taqueria",
+        "Country Code" : "HU",
+        "Geo Coordinates" : {
+          "Latitude" : "47.4991011",
+          "Longitude" : "19.0607539"
+        }
+      },
+      "Published" : "2018-07-30T21:38:25Z",
+      "Title" : "Ellato Kert & Taqueria",
+      "Updated" : "2018-07-30T21:38:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0135709, 47.5071568 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4113227241473785909",
+      "Location" : {
+        "Address" : "Budapest, Városmajor u. 68, 1122 Hungary",
+        "Business Name" : "Semmelweis Egyetem Városmajori Szív- és Érgyógyászati Klinika",
+        "Country Code" : "HU",
+        "Geo Coordinates" : {
+          "Latitude" : "47.5071568",
+          "Longitude" : "19.0135709"
+        }
+      },
+      "Published" : "2018-07-15T08:11:52Z",
+      "Title" : "Semmelweis Egyetem Városmajori Szív- és Érgyógyászati Klinika",
+      "Updated" : "2018-07-15T08:11:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0534330, 47.4820447 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8314029100033865539",
+      "Location" : {
+        "Address" : "Budapest, Csíky u. 1, 1111 Hungary",
+        "Business Name" : "Fiók Shop",
+        "Country Code" : "HU",
+        "Geo Coordinates" : {
+          "Latitude" : "47.4820447",
+          "Longitude" : "19.0534330"
+        }
+      },
+      "Published" : "2018-06-12T14:16:40Z",
+      "Title" : "Fiók For Arts",
+      "Updated" : "2018-06-12T14:16:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0537104, 47.4810508 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8016347259673519219",
+      "Location" : {
+        "Address" : "Budapest, Budafoki út 17, 1111 Hungary",
+        "Business Name" : "Szia Adománybolt",
+        "Geo Coordinates" : {
+          "Latitude" : "47.4810508",
+          "Longitude" : "19.0537104"
+        }
+      },
+      "Published" : "2018-06-05T22:12:14Z",
+      "Title" : "Szia Adomány Bolt",
+      "Updated" : "2018-06-05T22:12:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0542850, 47.5105330 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16174491732586291008",
+      "Location" : {
+        "Address" : "Budapest, Bihari János u. 17, 1055 Hungary",
+        "Business Name" : "Levél Teaház",
+        "Country Code" : "HU",
+        "Geo Coordinates" : {
+          "Latitude" : "47.5105330",
+          "Longitude" : "19.0542850"
+        }
+      },
+      "Published" : "2018-06-05T22:11:43Z",
+      "Title" : "Levél Teaház",
+      "Updated" : "2018-06-05T22:11:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0454352, 47.4777369 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1880898954592342656",
+      "Location" : {
+        "Address" : "Budapest, Villányi út 4, 1114 Hungary",
+        "Business Name" : "Dang Muoi Pho Bistro",
+        "Country Code" : "HU",
+        "Geo Coordinates" : {
+          "Latitude" : "47.4777369",
+          "Longitude" : "19.0454352"
+        }
+      },
+      "Published" : "2018-06-05T16:10:42Z",
+      "Title" : "Dang Muoi Pho Bistro",
+      "Updated" : "2018-06-05T16:10:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0556430, 47.5067530 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4921330654932747798",
+      "Location" : {
+        "Address" : "Budapest, u 1065, Nagymező u. 51, 1065 Hungary",
+        "Business Name" : "Dang Muoi Pho Bistro",
+        "Country Code" : "HU",
+        "Geo Coordinates" : {
+          "Latitude" : "47.5067530",
+          "Longitude" : "19.0556430"
+        }
+      },
+      "Published" : "2018-06-05T16:09:03Z",
+      "Title" : "Dang Muoi Pho Bistro",
+      "Updated" : "2018-06-05T16:09:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0511291, 47.4733498 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9683211942166956574",
+      "Location" : {
+        "Address" : "Budapest, Október huszonharmadika u. 27, 1117 Hungary",
+        "Business Name" : "Hai Nam Pho Bistro",
+        "Country Code" : "HU",
+        "Geo Coordinates" : {
+          "Latitude" : "47.4733498",
+          "Longitude" : "19.0511291"
+        }
+      },
+      "Published" : "2018-06-05T16:07:35Z",
+      "Title" : "Hai Nam Pho Bistro",
+      "Updated" : "2018-06-05T16:07:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0619375, 47.5207144 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2407117572996703696",
+      "Location" : {
+        "Address" : "Budapest, Váci út 19, 1134 Hungary",
+        "Business Name" : "MOUNTEX",
+        "Country Code" : "HU",
+        "Geo Coordinates" : {
+          "Latitude" : "47.5207144",
+          "Longitude" : "19.0619375"
+        }
+      },
+      "Published" : "2018-03-28T14:49:00Z",
+      "Title" : "Mountex Váci út",
+      "Updated" : "2018-03-28T14:49:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0565164, 47.5135727 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Budapest,+Kresz+G%C3%A9za+u.+21,+1132&ftid=0x4741dc0b89a33be1:0x7dc43fcd4c078131",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "47.5135727",
+          "Longitude" : "19.0565164"
+        }
+      },
+      "Published" : "2018-03-26T18:47:27Z",
+      "Title" : "Kresz Géza u. 21, Budapest, 1132",
+      "Updated" : "2018-03-26T18:47:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0449429, 47.4729587 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9277332175640648138",
+      "Location" : {
+        "Address" : "Budapest, Ulászló u. 8, 1114 Hungary",
+        "Business Name" : "Kacskaringó Fonalbolt",
+        "Country Code" : "HU",
+        "Geo Coordinates" : {
+          "Latitude" : "47.4729587",
+          "Longitude" : "19.0449429"
+        }
+      },
+      "Published" : "2018-02-24T08:39:53Z",
+      "Title" : "Barka Fonal",
+      "Updated" : "2018-02-24T08:39:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0199533, 47.4926028 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15859861866236445685",
+      "Location" : {
+        "Address" : "Budapest, Kiss János altábornagy u. 35, 1126 Hungary",
+        "Business Name" : "Bio shop",
+        "Country Code" : "HU",
+        "Geo Coordinates" : {
+          "Latitude" : "47.4926028",
+          "Longitude" : "19.0199533"
+        }
+      },
+      "Published" : "2017-11-24T10:34:40Z",
+      "Title" : "Zöldbolt Budapest",
+      "Updated" : "2017-11-24T10:34:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0504099, 47.5149689 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1750927797093016587",
+      "Location" : {
+        "Address" : "Budapest, Hollán Ernő u. 22, 1136 Hungary",
+        "Business Name" : "1001fonal",
+        "Country Code" : "HU",
+        "Geo Coordinates" : {
+          "Latitude" : "47.5149689",
+          "Longitude" : "19.0504099"
+        }
+      },
+      "Published" : "2017-08-25T21:49:14Z",
+      "Title" : "1001fonal",
+      "Updated" : "2017-08-25T21:49:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0642018, 47.5042817 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2670622524362194673",
+      "Location" : {
+        "Address" : "Budapest, Teréz krt. 8, 1066 Hungary",
+        "Business Name" : "Gombolyda",
+        "Geo Coordinates" : {
+          "Latitude" : "47.5042817",
+          "Longitude" : "19.0642018"
+        }
+      },
+      "Published" : "2017-08-25T21:47:15Z",
+      "Title" : "Gombolyda",
+      "Updated" : "2017-08-25T21:47:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0293932, 47.5097006 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2196591489886360585",
+      "Location" : {
+        "Address" : "Budapest, Margit körút 62, 1027 Hungary",
+        "Business Name" : "LoveBug Vintage",
+        "Country Code" : "HU",
+        "Geo Coordinates" : {
+          "Latitude" : "47.5097006",
+          "Longitude" : "19.0293932"
+        }
+      },
+      "Published" : "2017-08-02T22:37:33Z",
+      "Title" : "LoveBug Vintage",
+      "Updated" : "2017-08-02T22:37:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0499962, 47.4785751 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14078607807526914735",
+      "Location" : {
+        "Address" : "Budapest, Bartók Béla út 46, 1111 Hungary",
+        "Business Name" : "Gdansk Könyvesbolt és Büfé",
+        "Country Code" : "HU",
+        "Geo Coordinates" : {
+          "Latitude" : "47.4785751",
+          "Longitude" : "19.0499962"
+        }
+      },
+      "Published" : "2017-02-25T00:42:42Z",
+      "Title" : "Gdansk Könyvesbolt és Büfé",
+      "Updated" : "2017-02-25T00:42:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0382480, 47.5297790 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Budapest,+B%C3%A9csi+%C3%BAt+65,+1036+Hungary&ftid=0x4741d9571b1f7a4b:0x2632f585771c3374",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "47.5297790",
+          "Longitude" : "19.0382480"
+        }
+      },
+      "Published" : "2017-02-25T00:41:37Z",
+      "Title" : "Bécsi út 65, Budapest, 1036 Hungary",
+      "Updated" : "2017-02-25T00:41:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.1303030, 47.4812134 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11810701724933641755",
+      "Location" : {
+        "Business Name" : "BOOKR",
+        "Country Code" : "HU",
+        "Geo Coordinates" : {
+          "Latitude" : "47.4812134",
+          "Longitude" : "19.1303030"
+        }
+      },
+      "Published" : "2017-02-25T00:41:19Z",
+      "Title" : "BOOKR",
+      "Updated" : "2017-02-25T00:41:19Z"
+    },
+    "type" : "Feature"
+  }, 

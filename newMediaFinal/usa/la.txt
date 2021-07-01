@@ -1,0 +1,103 @@
+{
+    "geometry" : {
+      "coordinates" : [ -118.3647550, 33.8380600 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11701868879513301337",
+      "Location" : {
+        "Address" : "4807 Torrance Blvd, Torrance, CA 90503, United States",
+        "Business Name" : "Olympus Board Shop",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "33.8380600",
+          "Longitude" : "-118.3647550"
+        }
+      },
+      "Published" : "2020-12-20T01:08:13Z",
+      "Title" : "Olympus Board Shop",
+      "Updated" : "2020-12-20T01:08:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.2913866, 34.0879820 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14506766083324360498",
+      "Location" : {
+        "Address" : "904 N Vermont Ave, Los Angeles, CA 90029, United States",
+        "Business Name" : "D & J Digital Imaging",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.0879820",
+          "Longitude" : "-118.2913866"
+        }
+      },
+      "Published" : "2020-12-12T21:21:46Z",
+      "Title" : "D & J Digital Imaging",
+      "Updated" : "2020-12-12T21:21:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.2915107, 34.1038924 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5538384440758039214",
+      "Location" : {
+        "Address" : "1808 N Vermont Ave, Los Angeles, CA 90027, United States",
+        "Business Name" : "The Little Knittery",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.1038924",
+          "Longitude" : "-118.2915107"
+        }
+      },
+      "Published" : "2020-12-12T21:21:30Z",
+      "Title" : "The Little Knittery",
+      "Updated" : "2020-12-12T21:21:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -107.9131299, 40.0374733 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Meeker,+CO+81641&ftid=0x87422a8e3961f32f:0xf29e4ad917abe705",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "40.0374733",
+          "Longitude" : "-107.9131299"
+        }
+      },
+      "Published" : "2020-11-10T02:55:59Z",
+      "Title" : "Meeker, Colorado 81641",
+      "Updated" : "2020-11-10T02:55:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.2443147, 34.0524090 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14361284420531470977",
+      "Location" : {
+        "Address" : "100 W 1st St, Los Angeles, CA 90012, United States",
+        "Business Name" : "LAPD Headquarters",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.0524090",
+          "Longitude" : "-118.2443147"
+        }
+      },
+      "Published" : "2020-11-07T21:27:02Z",
+      "Title" : "LAPD Headquarters",
+      "Updated" : "2020-11-07T21:27:02Z"
+    },
+    "type" : "Feature"
+  },

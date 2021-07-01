@@ -1,0 +1,19 @@
+{
+    "geometry" : {
+      "coordinates" : [ -76.5935020, 38.7339700 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=31+Friendship+Rd,+Friendship,+MD+20758&ftid=0x89b78f0aeceb426b:0xa8ecef8dfa927a9a",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "38.7339700",
+          "Longitude" : "-76.5935020"
+        }
+      },
+      "Published" : "2020-06-23T17:50:32Z",
+      "Title" : "31 Friendship Rd, Friendship, MD 20758",
+      "Updated" : "2020-06-23T17:50:32Z"
+    },
+    "type" : "Feature"
+  }, 

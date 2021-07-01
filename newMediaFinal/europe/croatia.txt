@@ -1,0 +1,80 @@
+{
+    "geometry" : {
+      "coordinates" : [ 14.4168816, 45.3404159 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=905677790226202064",
+      "Location" : {
+        "Address" : "Vukovarska ul. 65A, 51000, Rijeka, Croatia",
+        "Business Name" : "Seafood Restaurant \"Girica\"",
+        "Country Code" : "HR",
+        "Geo Coordinates" : {
+          "Latitude" : "45.3404159",
+          "Longitude" : "14.4168816"
+        }
+      },
+      "Published" : "2019-06-09T16:22:49Z",
+      "Title" : "Seafood Restaurant \"Girica\"",
+      "Updated" : "2019-06-09T16:22:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.6649343, 45.1053615 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11956149627851369993",
+      "Location" : {
+        "Address" : "51516, Risika, Croatia",
+        "Business Name" : "Spiaggia Sv. Marak, Sv. Marak Beach",
+        "Geo Coordinates" : {
+          "Latitude" : "45.1053615",
+          "Longitude" : "14.6649343"
+        }
+      },
+      "Published" : "2019-06-09T12:37:41Z",
+      "Title" : "Spiaggia Sv. Marak, Sv. Marak Beach",
+      "Updated" : "2019-06-09T12:37:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4657717, 45.3179796 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17987539931653180923",
+      "Location" : {
+        "Address" : "51000, Rijeka, Croatia",
+        "Business Name" : "Sablićevo Beach",
+        "Geo Coordinates" : {
+          "Latitude" : "45.3179796",
+          "Longitude" : "14.4657717"
+        }
+      },
+      "Published" : "2019-06-09T12:30:32Z",
+      "Title" : "Sablićevo Beach",
+      "Updated" : "2019-06-09T12:30:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 15.5028305, 45.4449950 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=47250,+Duga+Resa,+Croatia&ftid=0x476415b7a0b79037:0x400ad50862bbb40",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "45.4449950",
+          "Longitude" : "15.5028305"
+        }
+      },
+      "Published" : "2019-06-07T08:01:35Z",
+      "Title" : "Duga Resa, 47250, Croatia",
+      "Updated" : "2019-06-07T08:01:35Z"
+    },
+    "type" : "Feature"
+  },

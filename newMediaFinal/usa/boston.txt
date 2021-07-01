@@ -1,0 +1,310 @@
+{
+    "geometry" : {
+      "coordinates" : [ -71.0432721, 42.3527988 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8840853673009337146",
+      "Location" : {
+        "Address" : "25 Harbor Shore Dr, Boston, MA 02210, United States",
+        "Business Name" : "The Institute of Contemporary Art",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3527988",
+          "Longitude" : "-71.0432721"
+        }
+      },
+      "Published" : "2018-10-20T03:59:03Z",
+      "Title" : "The Institute of Contemporary Art",
+      "Updated" : "2018-10-20T03:59:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0551145, 42.3601890 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=54879560290141189",
+      "Location" : {
+        "Address" : "4 S Market St, Boston, MA 02109, United States",
+        "Business Name" : "Faneuil Hall Marketplace",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3601890",
+          "Longitude" : "-71.0551145"
+        }
+      },
+      "Published" : "2018-10-20T03:55:37Z",
+      "Title" : "Faneuil Hall Marketplace",
+      "Updated" : "2018-10-20T03:55:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0955031, 42.3796042 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Union+Square,+Somerville,+MA+02143,+USA&ftid=0x89e370caf3b53691:0xa3aa1b9916a92577",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "42.3796042",
+          "Longitude" : "-71.0955031"
+        }
+      },
+      "Published" : "2018-10-20T03:49:16Z",
+      "Title" : "Union Square, Somerville, MA 02143, USA",
+      "Updated" : "2018-10-20T03:49:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0917052, 42.3796539 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14598932992846905423",
+      "Location" : {
+        "Address" : "195 Washington St, Somerville, MA 02143, United States",
+        "Business Name" : "NU Kitchen Somerville",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3796539",
+          "Longitude" : "-71.0917052"
+        }
+      },
+      "Published" : "2018-10-20T03:38:45Z",
+      "Title" : "NU Kitchen formerly NU Cafe",
+      "Updated" : "2018-10-20T03:38:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0955350, 42.3798370 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5152351774206922763",
+      "Location" : {
+        "Address" : "61 Union Square, Somerville, MA 02143, United States",
+        "Business Name" : "El Potro Mexican Bar & Grill",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3798370",
+          "Longitude" : "-71.0955350"
+        }
+      },
+      "Published" : "2018-10-20T03:37:26Z",
+      "Title" : "El Potro Mexican Bar & Grill",
+      "Updated" : "2018-10-20T03:37:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.0000259, 40.7335054 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4285782892268809918",
+      "Location" : {
+        "Address" : "401 6th Ave, New York, NY 10014, United States",
+        "Business Name" : "Hao Noodle",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7335054",
+          "Longitude" : "-74.0000259"
+        }
+      },
+      "Published" : "2018-10-20T00:58:03Z",
+      "Title" : "Hao Noodle",
+      "Updated" : "2018-10-20T00:58:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0966309, 42.3610045 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17960386153733890131",
+      "Location" : {
+        "Address" : "190 Massachusetts Ave, Cambridge, MA 02139, United States",
+        "Business Name" : "Flour Bakery",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3610045",
+          "Longitude" : "-71.0966309"
+        }
+      },
+      "Published" : "2018-10-19T21:21:55Z",
+      "Title" : "Flour Bakery",
+      "Updated" : "2018-10-19T21:21:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0570361, 42.3619639 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15650615817702684376",
+      "Location" : {
+        "Address" : "100 Hanover St, Boston, MA 02108, United States",
+        "Business Name" : "Boston Public Market",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3619639",
+          "Longitude" : "-71.0570361"
+        }
+      },
+      "Published" : "2018-10-19T20:47:46Z",
+      "Title" : "Boston Public Market",
+      "Updated" : "2018-10-19T20:47:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0707850, 42.3546204 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14688348396492089089",
+      "Location" : {
+        "Address" : "4 Charles St, Boston, MA 02116, United States",
+        "Business Name" : "Public Garden",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3546204",
+          "Longitude" : "-71.0707850"
+        }
+      },
+      "Published" : "2018-10-19T20:45:25Z",
+      "Title" : "Boston Public Garden",
+      "Updated" : "2018-10-19T20:45:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0512797, 42.3521786 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15127163986368509107",
+      "Location" : {
+        "Address" : "306 Congress St, Boston, MA 02210, United States",
+        "Business Name" : "Boston Tea Party Ships & Museum",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3521786",
+          "Longitude" : "-71.0512797"
+        }
+      },
+      "Published" : "2018-10-19T20:43:28Z",
+      "Title" : "Boston Tea Party Ships & Museum",
+      "Updated" : "2018-10-19T20:43:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0516339, 42.3609921 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3609661517394149532",
+      "Location" : {
+        "Address" : "Atlantic Ave, Boston, MA 02110, United States",
+        "Business Name" : "Christopher Columbus Waterfront Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3609921",
+          "Longitude" : "-71.0516339"
+        }
+      },
+      "Published" : "2018-10-19T20:43:10Z",
+      "Title" : "Christopher Columbus Waterfront Park",
+      "Updated" : "2018-10-19T20:43:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0657256, 42.3550897 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4577491191698378500",
+      "Location" : {
+        "Address" : "139 Tremont St 1B Charles St 38 Beacon St 167 Tremont St, 115 Boylston St, Boston, MA 02116, United States",
+        "Business Name" : "Boston Common",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3550897",
+          "Longitude" : "-71.0657256"
+        }
+      },
+      "Published" : "2018-10-19T20:42:55Z",
+      "Title" : "Boston Common",
+      "Updated" : "2018-10-19T20:42:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0940480, 42.3393810 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3387621536366450020",
+      "Location" : {
+        "Address" : "465 Huntington Ave, Boston, MA 02115, United States",
+        "Business Name" : "Museum of Fine Arts, Boston",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3393810",
+          "Longitude" : "-71.0940480"
+        }
+      },
+      "Published" : "2018-10-19T20:42:39Z",
+      "Title" : "Museum of Fine Arts, Boston",
+      "Updated" : "2018-10-19T20:42:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0876928, 42.3825578 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=156+Glen+St,+Somerville,+MA+02145,+USA&ftid=0x89e370cf19fb0603:0xeeeb2fc14ad52b2f",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "42.3825578",
+          "Longitude" : "-71.0876928"
+        }
+      },
+      "Published" : "2018-10-19T20:42:15Z",
+      "Title" : "156 Glen St, Somerville, MA 02145, USA",
+      "Updated" : "2018-10-19T20:42:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.1194958, 42.3518386 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3099615000111605817",
+      "Location" : {
+        "Address" : "967 Commonwealth Avenue, Boston, MA 02215, United States",
+        "Business Name" : "Paradise Rock Club",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3518386",
+          "Longitude" : "-71.1194958"
+        }
+      },
+      "Published" : "2018-10-19T20:41:53Z",
+      "Title" : "Paradise Rock Club",
+      "Updated" : "2018-10-19T20:41:53Z"
+    },
+    "type" : "Feature"
+  }, 

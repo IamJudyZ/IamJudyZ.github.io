@@ -1,0 +1,43 @@
+ {
+    "geometry" : {
+      "coordinates" : [ -77.0424814, 38.9213085 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7600743512535211217",
+      "Location" : {
+        "Address" : "2420 18th St NW, Washington, DC 20009, United States",
+        "Business Name" : "Zenebech Restaurant",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "38.9213085",
+          "Longitude" : "-77.0424814"
+        }
+      },
+      "Published" : "2019-03-31T15:24:44Z",
+      "Title" : "Zenebech Restaurant",
+      "Updated" : "2019-03-31T15:24:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -76.9965694, 38.8859111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11334873332477800848",
+      "Location" : {
+        "Address" : "657 C St SE, Washington, DC 20003, United States",
+        "Business Name" : "Capitol Hill Books",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "38.8859111",
+          "Longitude" : "-76.9965694"
+        }
+      },
+      "Published" : "2019-03-31T15:24:17Z",
+      "Title" : "Capitol Hill Books",
+      "Updated" : "2019-03-31T15:24:17Z"
+    },
+    "type" : "Feature"
+  },
